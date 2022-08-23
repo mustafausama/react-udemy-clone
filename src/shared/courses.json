@@ -1,0 +1,71 @@
+{
+  "name": "Python",
+  "title": "Expand your career opportunities with Python",
+  "body": "Take one of Udemy’s range of Python courses and learn how to code using this incredibly useful language. Its simple syntax and readability makes Python perfect for Flask, Django, data science, and machine learning. You’ll learn how to build everything from games to sites to apps. Choose from a range of courses that will appeal to both beginners and advanced developers alike.",
+  "courses": [
+    {
+      "id": 1,
+      "image": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
+      "title": "learn python: the complete python programming course",
+      "author": "Avinash Jain, The Codex",
+      "rating": { "score": 3.5, "reviews": 2916 },
+      "price": 260
+    },
+    {
+      "id": 2,
+      "image": "https://img-c.udemycdn.com/course/240x135/405878_e5a0_3.jpg",
+      "title": "Python for Beginners - Learn Programming from scratch",
+      "author": "Edwin Diaz, Coding Faculty Solutions",
+      "rating": { "score": 4.4, "reviews": 1766 },
+      "price": 679.99
+    },
+    {
+      "id": 3,
+      "image": "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
+      "title": "Learning Python for Data Analysis and Visualization",
+      "author": "Jose Portilla",
+      "rating": { "score": 4.4, "reviews": 17984 },
+      "price": 1599.99
+    },
+    {
+      "id": 4,
+      "image": "https://img-c.udemycdn.com/course/240x135/426570_1b91_3.jpg",
+      "title": "Learn Python: Python for Beginners",
+      "author": "Abrar Hussain",
+      "rating": { "score": 4.3, "reviews": 2767 },
+      "price": 319.99
+    },
+    {
+      "id": 5,
+      "image": "https://img-c.udemycdn.com/course/240x135/449532_2aa9_7.jpg",
+      "title": "Python Beyond the Basics - Object-Oriented Programming",
+      "author": "Infinite Skills",
+      "rating": { "score": 4.4, "reviews": 2929 },
+      "price": 519.99
+    },
+    {
+      "id": 6,
+      "image": "https://img-c.udemycdn.com/course/240x135/482754_7146_6.jpg",
+      "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
+      "author": "Admas Kinfu",
+      "rating": { "score": 4.6, "reviews": 1813 },
+      "price": 1299.99
+    },
+    {
+      "id": 7,
+      "image": "https://img-c.udemycdn.com/course/240x135/519554_da68_6.jpg",
+      "title": "Teach Your Kids to Code: Learn to Program Python at Any Age!",
+      "author": "Bryson Payne",
+      "rating": { "score": 4.5, "reviews": 8809 },
+      "price": 319.99
+    },
+    {
+      "id": 8,
+      "image": "https://img-c.udemycdn.com/course/240x135/535622_3bc0.jpg",
+      "title": "Python for Data Structures, Algorithms, and Interviews!",
+      "author": "Jose Portilla",
+      "rating": { "score": 4.5, "reviews": 10701 },
+      "price": 1299.99
+    }
+  ]
+}

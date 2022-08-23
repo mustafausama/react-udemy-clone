@@ -1,0 +1,53 @@
+.courseCard {
+  text-decoration: none;
+  color: inherit;
+}
+
+.courseCard:hover > img {
+  filter: brightness(80%);
+}
+
+.courseCard *:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.courseCard img {
+  width: 100%;
+  border: 1px solid #d1d7dc;
+}
+
+.courseCard h2 {
+  text-transform: capitalize;
+  word-wrap: break-word;
+  font-size: 0.9em;
+}
+
+.courseCard p:not(:last-of-type) {
+  font-size: 0.8em;
+  color: #6a6f73;
+}
+
+.courseCard p:last-of-type {
+  font-weight: 900;
+  font-size: 0.9em;
+}
+
+.rating i {
+  color: #f2a51c;
+  font-size: 0.72em;
+  margin-right: 3px;
+}
+
+.score {
+  font-size: 0.9em;
+  font-weight: 900;
+  color: #b4690e;
+  margin-right: 5px;
+}
+
+.reviews {
+  font-size: 0.8em;
+  font-weight: 300;
+  color: #6a6f73;
+  margin-left: 2px;
+}
