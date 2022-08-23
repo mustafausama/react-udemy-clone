@@ -30,7 +30,7 @@ const CourseCard = ({
       <span className={styles.rating}>
         <span className={styles.score}>{score}</span>
         {stars.map((star) => (
-          <i className={star.join(" ")}></i>
+          <i className={star.join(" ")} key={stars.indexOf(star)}></i>
         ))}
         <span className={styles.reviews}>
           ({reviews.toLocaleString("en-US")})

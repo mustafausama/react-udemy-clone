@@ -1,11 +1,11 @@
-import Courses from "./components/Courses";
+import CoursesSelection from "./components/CoursesSelection";
 import CoursesContextProvider from "./contexts/CoursesContext";
 
 function App() {
   return (
     <div className="App">
       <CoursesContextProvider>
-        <Courses />
+        <CoursesSelection />
       </CoursesContextProvider>
     </div>
   );
