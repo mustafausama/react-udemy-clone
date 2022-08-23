@@ -1,3 +1,9 @@
+# Live Preview
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09e50e01-a7a5-4204-a093-e3851ed408a9/deploy-status)](https://app.netlify.com/sites/steady-zuccutto-481514/deploys)
+
+[Live Preview](https://steady-zuccutto-481514.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
