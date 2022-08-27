@@ -12,6 +12,12 @@
 
 [Live Preview](https://neon-vacherin-8abcd3.netlify.app/)
 
+## Phase 2 _Without Error_
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2b4075ea-f4a4-43d3-ad22-f37cb791f96d/deploy-status)](https://app.netlify.com/sites/lighthearted-medovik-f51654/deploys)
+
+[Live Preview](https://lighthearted-medovik-f51654.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
