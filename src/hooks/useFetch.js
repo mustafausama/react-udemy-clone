@@ -21,8 +21,10 @@ const useFetch = (URL) => {
           setError(null);
         })
         .catch((err) => {
-          setLoading(false);
-          setError(err.message);
+          if (err.name !== "AbortError") {
+            setLoading(false);
+            setError(err.message);
+          }
         });
     }, 500);
 
