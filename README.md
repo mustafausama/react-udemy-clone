@@ -8,15 +8,9 @@
 
 ## Phase 2 _With Error_
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0f450ddd-22a6-4ca8-9528-65df72e9c568/deploy-status)](https://app.netlify.com/sites/neon-vacherin-8abcd3/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f606a356-be99-43be-865b-394ee8f36587/deploy-status)](https://app.netlify.com/sites/deft-liger-4afe91/deploys)
 
-[Live Preview](https://neon-vacherin-8abcd3.netlify.app/)
-
-## Phase 2 _Without Error_
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2b4075ea-f4a4-43d3-ad22-f37cb791f96d/deploy-status)](https://app.netlify.com/sites/lighthearted-medovik-f51654/deploys)
-
-[Live Preview](https://lighthearted-medovik-f51654.netlify.app/)
+[Live Preview](https://deft-liger-4afe91.netlify.app/)
 
 # Getting Started with Create React App
 
