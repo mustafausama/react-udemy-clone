@@ -12,6 +12,12 @@
 
 [Live Preview](https://deft-liger-4afe91.netlify.app/)
 
+## Phase 2 _Without Error_
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b46af05-1ff4-4d4e-b57c-169a2ac9ee88/deploy-status)](https://app.netlify.com/sites/adorable-yeot-f88894/deploys)
+
+[Live Preview](https://adorable-yeot-f88894.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
