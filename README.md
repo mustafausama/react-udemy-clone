@@ -6,6 +6,10 @@
 
 [Live Preview](https://steady-zuccutto-481514.netlify.app/)
 
+## Phase 2
+
+[Live Preview](https://react-udemy-clone.vercel.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
