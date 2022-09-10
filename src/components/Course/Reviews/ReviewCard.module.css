@@ -1,0 +1,33 @@
+.initials {
+  width: 40px;
+  height: 40px;
+}
+
+.date {
+  color: #6a6f73;
+  font-size: 0.8em;
+}
+
+.content {
+  font-weight: 600;
+}
+
+.threeDots:focus {
+  box-shadow: none;
+}
+.threeDots::after {
+  display: none;
+}
+
+.feedback span {
+  color: #6a6f73;
+  font-size: 0.8em;
+}
+
+.feedback i {
+  cursor: pointer;
+}
+
+.mirror {
+  transform: scaleX(-1);
+}

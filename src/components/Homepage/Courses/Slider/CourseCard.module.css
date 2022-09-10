@@ -3,6 +3,10 @@
   color: inherit;
 }
 
+.courseCard:hover {
+  color: unset;
+}
+
 .courseCard:hover > img {
   filter: brightness(80%);
 }
@@ -30,19 +34,6 @@
 .courseCard p:last-of-type {
   font-weight: 900;
   font-size: 0.9em;
-}
-
-.rating i {
-  color: #f2a51c;
-  font-size: 0.72em;
-  margin-right: 3px;
-}
-
-.score {
-  font-size: 0.9em;
-  font-weight: 900;
-  color: #b4690e;
-  margin-right: 5px;
 }
 
 .reviews {

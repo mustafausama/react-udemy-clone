@@ -1,0 +1,27 @@
+.courseSideCard {
+  box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+  background-color: #fff;
+  width: calc(100% / 4);
+  color: #000;
+  padding: 3px;
+  z-index: 1000;
+  transition: none !important;
+}
+
+.share > a {
+  color: #000;
+  font-weight: 700;
+  font-size: 0.8em;
+}
+
+.addCartBtn {
+  background-color: #a435f0;
+}
+
+.addCartBtn:hover {
+  background-color: #8710d8;
+}
+
+.buyBtn:hover {
+  background-color: rgb(0 0 0 / 0.07) !important;
+}

@@ -1,0 +1,13 @@
+.courseSelection {
+  font-family: serif;
+}
+
+.tabLink {
+  color: #6a6f73;
+}
+
+.tabLink:focus,
+.tabLink:hover {
+  color: #000;
+  background-color: transparent;
+}

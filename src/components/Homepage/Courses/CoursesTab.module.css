@@ -1,0 +1,20 @@
+.description {
+  width: 60%;
+  overflow: hidden;
+  /* Ref: https://stackoverflow.com/questions/36652580/how-to-add-three-dots-to-text-when-overflow-in-html */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+}
+
+.exploreBtn:hover {
+  background-color: rgb(0 0 0 / 0.07) !important;
+}
+
+@media (max-width: 991.98px) {
+  .description {
+    width: 100%;
+  }
+}

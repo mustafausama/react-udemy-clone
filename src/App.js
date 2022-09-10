@@ -1,16 +1,15 @@
-import { ToastContainer } from "react-toastify";
-import CoursesSelection from "./components/CoursesSelection";
-import CoursesContextProvider from "./contexts/CoursesContext";
 import "react-toastify/dist/ReactToastify.css";
+import { BrowserRouter } from "react-router-dom";
+import Router from "./components/Router";
+import CoursesContextProvider from "./contexts/CoursesContext";
 
 function App() {
   return (
-    <div className="App">
-      <CoursesContextProvider>
-        <CoursesSelection />
-      </CoursesContextProvider>
-      <ToastContainer />
-    </div>
+    <CoursesContextProvider>
+      <BrowserRouter>
+        <Router />
+      </BrowserRouter>
+    </CoursesContextProvider>
   );
 }
 

@@ -26,7 +26,7 @@ const useFetch = (URL) => {
             setError(err.message);
           }
         });
-    }, 500);
+    }, 1000);
 
     // useEffect cleanup function to abort the fetch request
     return () => abrtCnt.abort();

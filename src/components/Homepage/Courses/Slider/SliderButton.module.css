@@ -1,0 +1,25 @@
+.next,
+.prev {
+  cursor: pointer;
+  z-index: 500;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 80%;
+}
+
+.next:hover,
+.prev:hover {
+  opacity: 100%;
+}
+
+.next:focus,
+.prev:focus {
+  box-shadow: none;
+}
+.next {
+  right: -20px;
+}
+
+.prev {
+  left: -20px;
+}

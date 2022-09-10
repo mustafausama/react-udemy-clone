@@ -1,0 +1,10 @@
+.progressBar {
+  background-color: #d1d7dc;
+  flex-grow: 1;
+  height: 10px;
+  max-width: 30%;
+  width: 30%;
+}
+.progressBar div {
+  background-color: #6a6f73;
+}

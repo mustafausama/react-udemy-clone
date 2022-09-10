@@ -1,0 +1,22 @@
+.topCategories h3 {
+  font-weight: 700;
+  font-size: 1.4em;
+}
+
+.topCategories img {
+  width: 100%;
+}
+
+.topCategories > div > div > div {
+  overflow: hidden;
+}
+
+.topCategories img:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
+
+.topCategories p {
+  font-weight: 900;
+  font-size: 0.9em;
+}

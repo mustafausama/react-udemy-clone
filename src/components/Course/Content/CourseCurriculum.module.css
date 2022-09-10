@@ -1,0 +1,13 @@
+.instructorName {
+  color: #5624d0;
+  border-color: #5624d0 !important;
+}
+
+.instructorName:hover {
+  color: #401b9c;
+  border-color: #401b9c !important;
+}
+
+.instructorTitle {
+  color: #6a6f73;
+}

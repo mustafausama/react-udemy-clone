@@ -5,12 +5,33 @@
   transition-property: all;
   transition-duration: 0.5s;
 }
+
+*:focus {
+  box-shadow: none;
+  outline: none;
+}
+
 html,
 body {
   margin: 0;
   padding: 0;
 }
 
-body {
-  font-family: Arial, Helvetica, sans-serif;
+.breadcrumb-item + .breadcrumb-item::before {
+  content: ">";
+  color: #fff;
+  font-size: 0.9em;
+  font-weight: 800;
+  vertical-align: middle;
+  position: relative;
+  top: 0.2em;
+  z-index: 0;
+}
+
+a.active {
+  color: #000;
+}
+
+ul {
+  list-style-type: none;
 }

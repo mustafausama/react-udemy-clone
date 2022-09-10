@@ -1,0 +1,2992 @@
+{
+  "courses": [
+    {
+      "id": "pythonforbeginners",
+      "image": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg",
+      "title": "Learn Python: The Complete Python Programming Course",
+      "shortDescription": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
+      "author": "Avinash Jain",
+      "rating": { "score": 4.4, "reviews": 3223 },
+      "price": 269.99,
+      "lastUpdate": "9/2015",
+      "locale": "English",
+      "caption": "English",
+      "includes": { "video": 14, "articles": 1, "download": 3 },
+      "whatYouWillLearn": [
+        "Create their own Python Programs",
+        "Become an experienced Python Programmer",
+        "Parse the Web and Create their own Games"
+      ],
+      "content": {
+        "sections": 15,
+        "lectures": 146,
+        "total": "14h 42m",
+        "contentDetails": [
+          {
+            "title": "Up and Running With Python",
+            "lectures": "2",
+            "duration": "6min",
+            "lecturesDetails": [
+              {
+                "title": "Installing Python",
+                "preview": true,
+                "duration": "04:07"
+              },
+              { "title": "Hello World", "preview": false, "duration": "01:37" }
+            ]
+          },
+          {
+            "title": "The Basics (Data Types)",
+            "lectures": "11",
+            "duration": "53min",
+            "lecturesDetails": [
+              { "title": "Variables", "preview": true, "duration": "03:01" },
+              {
+                "title": "Multiple Assignment",
+                "preview": true,
+                "duration": "03:44"
+              },
+              {
+                "title": "Data Types and Ints",
+                "preview": false,
+                "duration": "03:57"
+              },
+              { "title": "Strings", "preview": false, "duration": "07:26" },
+              {
+                "title": "Placeholders",
+                "preview": false,
+                "duration": "03:49"
+              },
+              { "title": "Lists/Arrays", "preview": true, "duration": "06:03" },
+              {
+                "title": "List Functions",
+                "preview": false,
+                "duration": "07:18"
+              },
+              { "title": "Dictionaries", "preview": true, "duration": "06:54" },
+              {
+                "title": "Dictionary Functions",
+                "preview": false,
+                "duration": "05:33"
+              },
+              { "title": "Tuples", "preview": false, "duration": "05:01" },
+              {
+                "title": "Exercise Files",
+                "preview": false,
+                "duration": "2 pages"
+              }
+            ]
+          },
+          {
+            "title": "Conditions and Loops",
+            "lectures": "13",
+            "duration": "57min",
+            "lecturesDetails": [
+              {
+                "title": "If-Else Statements",
+                "preview": false,
+                "duration": "03:18"
+              },
+              {
+                "title": "Relational Operators",
+                "preview": false,
+                "duration": "05:57"
+              },
+              {
+                "title": "Nested If/Else",
+                "preview": false,
+                "duration": "04:23"
+              },
+              {
+                "title": "Elif Statements",
+                "preview": false,
+                "duration": "03:33"
+              },
+              {
+                "title": "Logical Operators",
+                "preview": false,
+                "duration": "03:58"
+              },
+              { "title": "For Loops", "preview": false, "duration": "07:22" },
+              { "title": "While Loops", "preview": false, "duration": "03:35" },
+              {
+                "title": "Nested For Loops",
+                "preview": false,
+                "duration": "03:41"
+              },
+              {
+                "title": "Pass, Break and Continue",
+                "preview": false,
+                "duration": "07:44"
+              },
+              {
+                "title": "Try and Except",
+                "preview": false,
+                "duration": "02:51"
+              },
+              { "title": "Commenting", "preview": false, "duration": "03:53" },
+              { "title": "Quick Tips", "preview": false, "duration": "06:26" },
+              {
+                "title": "Exercise Files",
+                "preview": false,
+                "duration": "1 page"
+              }
+            ]
+          },
+          {
+            "title": "Functions!",
+            "lectures": "7",
+            "duration": "26min",
+            "lecturesDetails": [
+              {
+                "title": "Creating our own Functions",
+                "preview": true,
+                "duration": "04:45"
+              },
+              {
+                "title": "Global and Local Vars",
+                "preview": false,
+                "duration": "02:46"
+              },
+              {
+                "title": "Abs and Bool",
+                "preview": false,
+                "duration": "03:55"
+              },
+              {
+                "title": "Help and Dir",
+                "preview": false,
+                "duration": "03:37"
+              },
+              {
+                "title": "Eval and Exec",
+                "preview": false,
+                "duration": "03:11"
+              },
+              {
+                "title": "Str, Int, Float",
+                "preview": false,
+                "duration": "03:33"
+              },
+              {
+                "title": "Recap and Sum",
+                "preview": false,
+                "duration": "04:31"
+              }
+            ]
+          },
+          {
+            "title": "Classes! (Object Orientated Programming)",
+            "lectures": "5",
+            "duration": "28min",
+            "lecturesDetails": [
+              {
+                "title": "Basics of Classes",
+                "preview": false,
+                "duration": "07:33"
+              },
+              {
+                "title": "Functions in Classes",
+                "preview": false,
+                "duration": "04:06"
+              },
+              {
+                "title": "Class Attributes",
+                "preview": false,
+                "duration": "06:19"
+              },
+              { "title": "Inheritance", "preview": false, "duration": "07:11" },
+              {
+                "title": "Overriding Methods",
+                "preview": false,
+                "duration": "02:54"
+              }
+            ]
+          },
+          {
+            "title": "File Input/Output",
+            "lectures": "6",
+            "duration": "25min",
+            "lecturesDetails": [
+              {
+                "title": "Creating a File",
+                "preview": false,
+                "duration": "03:15"
+              },
+              {
+                "title": "Creating a File (Windows)",
+                "preview": true,
+                "duration": "00:11"
+              },
+              {
+                "title": "Reading a File",
+                "preview": false,
+                "duration": "08:20"
+              },
+              {
+                "title": "Writing to a File",
+                "preview": false,
+                "duration": "03:39"
+              },
+              {
+                "title": "Appending to Files",
+                "preview": false,
+                "duration": "04:49"
+              },
+              {
+                "title": "Copying Files",
+                "preview": false,
+                "duration": "04:31"
+              }
+            ]
+          },
+          {
+            "title": "Using Python Modules",
+            "lectures": "12",
+            "duration": "59min",
+            "lecturesDetails": [
+              {
+                "title": "Random Module - Randint",
+                "preview": false,
+                "duration": "02:35"
+              },
+              {
+                "title": "Guessing Game",
+                "preview": false,
+                "duration": "09:32"
+              },
+              {
+                "title": "Guessing Game Challenge",
+                "preview": false,
+                "duration": "1 page"
+              },
+              {
+                "title": "Random Module - Shuffle and Choice",
+                "preview": false,
+                "duration": "04:08"
+              },
+              { "title": "Sys Module", "preview": false, "duration": "05:36" },
+              { "title": "Time Module", "preview": false, "duration": "12:00" },
+              {
+                "title": "Turtle Module",
+                "preview": false,
+                "duration": "04:20"
+              },
+              {
+                "title": "For Loops in Turtle",
+                "preview": false,
+                "duration": "04:22"
+              },
+              {
+                "title": "Up and Down Functions",
+                "preview": false,
+                "duration": "03:38"
+              },
+              {
+                "title": "Coloring in Turtle",
+                "preview": false,
+                "duration": "08:28"
+              },
+              {
+                "title": "Functions in Turtle",
+                "preview": false,
+                "duration": "04:06"
+              },
+              {
+                "title": "Exercise Files",
+                "preview": false,
+                "duration": "3 pages"
+              }
+            ]
+          },
+          {
+            "title": "Crawling The Web",
+            "lectures": "7",
+            "duration": "52min",
+            "lecturesDetails": [
+              { "title": "Re Module", "preview": false, "duration": "09:29" },
+              {
+                "title": "Crawling The Web (Stocks)",
+                "preview": false,
+                "duration": "17:14"
+              },
+              {
+                "title": "Stock Quotes (.py)",
+                "preview": false,
+                "duration": "1 page"
+              },
+              {
+                "title": "Crawling The Web (Weather)",
+                "preview": false,
+                "duration": "13:01"
+              },
+              {
+                "title": "Weather (.py)",
+                "preview": false,
+                "duration": "1 page"
+              },
+              {
+                "title": "Crawling The Web (Definition)",
+                "preview": false,
+                "duration": "12:02"
+              },
+              {
+                "title": "Definition (.py)",
+                "preview": false,
+                "duration": "1 page"
+              }
+            ]
+          },
+          {
+            "title": "Beautiful Soup HTML Parsing",
+            "lectures": "9",
+            "duration": "1hr 1min",
+            "lecturesDetails": [
+              {
+                "title": "Intro to Beautiful Soup",
+                "preview": false,
+                "duration": "01:38"
+              },
+              {
+                "title": "Installing the Beautiful Soup Module",
+                "preview": false,
+                "duration": "09:21"
+              },
+              {
+                "title": "Prettify with Soup",
+                "preview": false,
+                "duration": "05:44"
+              },
+              {
+                "title": "Drilling Down",
+                "preview": false,
+                "duration": "07:57"
+              },
+              {
+                "title": "Functions in Soup",
+                "preview": false,
+                "duration": "05:44"
+              },
+              {
+                "title": ".String and .Parent",
+                "preview": false,
+                "duration": "03:55"
+              },
+              {
+                "title": "Searching in Soup",
+                "preview": false,
+                "duration": "08:53"
+              },
+              {
+                "title": "Weather Parsing",
+                "preview": false,
+                "duration": "11:01"
+              },
+              {
+                "title": "Antonym Parsing",
+                "preview": false,
+                "duration": "06:53"
+              }
+            ]
+          },
+          {
+            "title": "MatPlotLib - Charts, Plots and 3D Figures!",
+            "lectures": "20",
+            "duration": "1hr 49min",
+            "lecturesDetails": [
+              {
+                "title": "Intro to MatPlotLib",
+                "preview": true,
+                "duration": "03:27"
+              },
+              { "title": "First Graph!", "preview": true, "duration": "04:52" },
+              {
+                "title": "Understanding the MatPlotLib Interface",
+                "preview": false,
+                "duration": "03:45"
+              },
+              {
+                "title": "Graph Labels",
+                "preview": false,
+                "duration": "05:18"
+              },
+              {
+                "title": "Creating a Graph from a File",
+                "preview": false,
+                "duration": "10:08"
+              },
+              {
+                "title": "Understanding SubPlots and Figures",
+                "preview": false,
+                "duration": "07:42"
+              },
+              {
+                "title": "Coloring of Graph",
+                "preview": false,
+                "duration": "06:42"
+              },
+              {
+                "title": "Multiple Plots in a Graph",
+                "preview": false,
+                "duration": "04:10"
+              },
+              {
+                "title": "Multiple Graphs in a Figure",
+                "preview": false,
+                "duration": "04:19"
+              },
+              {
+                "title": "What about 3 graphs?",
+                "preview": false,
+                "duration": "06:19"
+              },
+              {
+                "title": "Bar Graphs Intro",
+                "preview": false,
+                "duration": "04:18"
+              },
+              {
+                "title": "Modifying our Bar Graph",
+                "preview": false,
+                "duration": "07:13"
+              },
+              {
+                "title": "Pie Chart Intro",
+                "preview": false,
+                "duration": "02:42"
+              },
+              {
+                "title": "Modifying our Pie Chart",
+                "preview": false,
+                "duration": "03:49"
+              },
+              {
+                "title": "Adding a Legend",
+                "preview": false,
+                "duration": "03:25"
+              },
+              {
+                "title": "3D Graphics Intro",
+                "preview": false,
+                "duration": "07:09"
+              },
+              {
+                "title": "3D Scatter Plots",
+                "preview": false,
+                "duration": "05:03"
+              },
+              {
+                "title": "Multiple 3D Scatter Plots",
+                "preview": false,
+                "duration": "02:46"
+              },
+              {
+                "title": "3D Bar Graphs",
+                "preview": false,
+                "duration": "09:56"
+              },
+              {
+                "title": "3D Wireframes",
+                "preview": false,
+                "duration": "05:32"
+              }
+            ]
+          },
+          {
+            "title": "Data Analysis with Pandas!",
+            "lectures": "17",
+            "duration": "1hr 58min",
+            "lecturesDetails": [
+              {
+                "title": "Intro to Pandas",
+                "preview": false,
+                "duration": "01:58"
+              },
+              {
+                "title": "Series Data Structure",
+                "preview": false,
+                "duration": "08:59"
+              },
+              {
+                "title": "Series Continuation",
+                "preview": false,
+                "duration": "07:56"
+              },
+              {
+                "title": "Data Frames Intro",
+                "preview": false,
+                "duration": "08:30"
+              },
+              {
+                "title": "Creating a CSV",
+                "preview": false,
+                "duration": "02:20"
+              },
+              {
+                "title": "Reading a CSV",
+                "preview": false,
+                "duration": "05:44"
+              },
+              {
+                "title": "Writing to a CSV",
+                "preview": false,
+                "duration": "03:05"
+              },
+              {
+                "title": "Getting our Data",
+                "preview": false,
+                "duration": "05:00"
+              },
+              {
+                "title": "Slicing Data Frames",
+                "preview": false,
+                "duration": "03:37"
+              },
+              {
+                "title": "Data Manipulation",
+                "preview": false,
+                "duration": "10:27"
+              },
+              {
+                "title": "Indexing and More",
+                "preview": false,
+                "duration": "08:10"
+              },
+              {
+                "title": "Merging Data Frames",
+                "preview": false,
+                "duration": "08:54"
+              },
+              {
+                "title": "GroupBy Function",
+                "preview": false,
+                "duration": "05:59"
+              },
+              {
+                "title": "MovieLens Data",
+                "preview": false,
+                "duration": "07:42"
+              },
+              {
+                "title": "Heavy Data Analysis",
+                "preview": false,
+                "duration": "08:29"
+              },
+              {
+                "title": "MatPlotLib with Pandas",
+                "preview": false,
+                "duration": "04:17"
+              },
+              {
+                "title": "Let's Finish This",
+                "preview": false,
+                "duration": "16:34"
+              }
+            ]
+          },
+          {
+            "title": "Python GUI with Tkinter",
+            "lectures": "25",
+            "duration": "2hr 31min",
+            "lecturesDetails": [
+              {
+                "title": "Tkinter Introduction",
+                "preview": false,
+                "duration": "04:22"
+              },
+              { "title": "Labels", "preview": false, "duration": "03:57" },
+              { "title": "Buttons", "preview": false, "duration": "04:04" },
+              { "title": "Layouts", "preview": false, "duration": "08:01" },
+              { "title": "Fill", "preview": false, "duration": "06:30" },
+              { "title": "Grid Layout", "preview": false, "duration": "05:51" },
+              { "title": "Entries", "preview": false, "duration": "02:32" },
+              {
+                "title": "Check Buttons",
+                "preview": false,
+                "duration": "03:44"
+              },
+              { "title": "GUI Login", "preview": false, "duration": "03:50" },
+              {
+                "title": "Actions on Button Click",
+                "preview": false,
+                "duration": "03:50"
+              },
+              {
+                "title": "Binding Functions",
+                "preview": false,
+                "duration": "04:14"
+              },
+              {
+                "title": "More Binding!",
+                "preview": false,
+                "duration": "06:08"
+              },
+              {
+                "title": "Getting Entry Data",
+                "preview": false,
+                "duration": "08:28"
+              },
+              { "title": "Message Box", "preview": false, "duration": "07:28" },
+              {
+                "title": "Drop Down Menus",
+                "preview": false,
+                "duration": "07:54"
+              },
+              {
+                "title": "Calculator Part 1",
+                "preview": false,
+                "duration": "06:19"
+              },
+              {
+                "title": "Calculator Part 2",
+                "preview": false,
+                "duration": "07:08"
+              },
+              {
+                "title": "Calculator Part 3",
+                "preview": false,
+                "duration": "08:48"
+              },
+              {
+                "title": "Calculator Part 4",
+                "preview": false,
+                "duration": "09:23"
+              },
+              {
+                "title": "Canvas Intro",
+                "preview": false,
+                "duration": "06:10"
+              },
+              {
+                "title": "Canvas Objects",
+                "preview": false,
+                "duration": "05:43"
+              },
+              { "title": "Canvas Fill", "preview": false, "duration": "04:15" },
+              {
+                "title": "Random Rectangle Generator",
+                "preview": false,
+                "duration": "06:43"
+              },
+              {
+                "title": "Text and Arcs",
+                "preview": false,
+                "duration": "08:52"
+              },
+              { "title": "Animations", "preview": false, "duration": "06:24" }
+            ]
+          },
+          {
+            "title": "Our First Game (Bounce!)",
+            "lectures": "6",
+            "duration": "57min",
+            "lecturesDetails": [
+              {
+                "title": "Creating our Ball",
+                "preview": false,
+                "duration": "12:36"
+              },
+              {
+                "title": "Adding the Game Interface",
+                "preview": false,
+                "duration": "13:31"
+              },
+              {
+                "title": "Adding the Paddle",
+                "preview": false,
+                "duration": "09:40"
+              },
+              {
+                "title": "Final Touches",
+                "preview": false,
+                "duration": "17:15"
+              },
+              { "title": "Recap", "preview": false, "duration": "04:08" },
+              {
+                "title": "Bounce! (.py) (v1/v2/v3)",
+                "preview": false,
+                "duration": "17 pages"
+              }
+            ]
+          },
+          {
+            "title": "Our Second Game (Pong!)",
+            "lectures": "5",
+            "duration": "51min",
+            "lecturesDetails": [
+              {
+                "title": "Creating our Ball",
+                "preview": false,
+                "duration": "15:28"
+              },
+              {
+                "title": "Adding Paddle1",
+                "preview": false,
+                "duration": "07:42"
+              },
+              {
+                "title": "Adding Paddle2",
+                "preview": false,
+                "duration": "12:36"
+              },
+              {
+                "title": "Final Touches",
+                "preview": false,
+                "duration": "14:50"
+              },
+              {
+                "title": "Pong! (.py)",
+                "preview": false,
+                "duration": "4 pages"
+              }
+            ]
+          },
+          {
+            "title": "What's Next?",
+            "lectures": "1",
+            "duration": "1min",
+            "lecturesDetails": [
+              {
+                "title": "Up and Beyond!",
+                "preview": false,
+                "duration": "00:41"
+              }
+            ]
+          }
+        ]
+      },
+      "requirements": [
+        "Macintosh (OSX)/ Windows(Vista and higher) Machine",
+        "Internet Connection"
+      ],
+      "descriptionHTML": "<p><strong>Do you want to become a programmer? Do you want to learn how to create games, automate your browser, visualize data, and much more? </strong></p><p>If you’re looking to learn Python for the very <strong>first time</strong> or need a <strong>quick brush-up</strong>, this is the course for you! </p><p>Python has rapidly become one of the <strong>most popular programming languages </strong>around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes <strong>over $100,000 </strong>- this number is only going to grow in the coming years.</p><p>The best part? Python is one of the <strong>easiest coding languages </strong>to learn right now. It doesn’t matter if you have no programming experience or are unfamiliar with the syntax of Python. By the time you finish this course, you'll be an <strong>absolute pro</strong> at programming!</p><p>This course will cover <strong>all the basics</strong> and <strong>several advanced concepts</strong> of Python. We’ll go over:</p><ul><li><p>The fundamentals of Python programming</p></li><li><p>Writing and Reading to Files</p></li><li><p>Automation of Word and Excel Files</p></li><li><p>Web scraping with BeautifulSoup4</p></li><li><p>Browser automation with Selenium</p></li><li><p>Data Analysis and Visualization with MatPlotLib</p></li><li><p>Regex parsing and Task Management</p></li><li><p>GUI and Gaming with Tkinter</p></li><li><p>And much more!</p></li></ul><p>If you read the above list and are feeling a bit confused, don’t worry! As an instructor and student on Udemy for <strong>almost 4 years,</strong> I know what it’s like to be overwhelmed with boring and mundane. I promise you’ll have a blast learning the ins and outs of python. I’ve successfully taught over<strong> 200,000+ students </strong>from over<strong> 200 countries</strong> jumpstart their programming journeys through my courses. </p><p>Here’s what some of my students have to say:</p><ul><li><p>“I wish I started programming at a younger age like Avi. &nbsp;This Python course was excellent for those that cringe at the thought of starting over from scratch with attempts to write programs once again. Python is a great building language for any beginner programmer. Thank you Avi!”</p><p><br></p></li><li><p>“I had no idea about any programming language. With Avi's lectures, I'm now aware of several python concepts and I'm beginning to write my own programs. Avi is crisp and clear in his lectures and it is easy to catch the concepts and the depth of it through his explanations. Thanks, Avi for the wonderful course, You're awesome! It's helping me a lot :)”</p><p><br></p></li><li><p>\"Videos are short and concise and well-defined in their title, this makes them easy to refer back to when a refresher is needed. Explanations aren't convoluted with complicated examples, which adds to the quick pace of the videos. I am very pleased with the decision to enroll in this course. Not only has it increased the pace I'm learning Python but I actively look forward to continuing the course, whenever I get the chance. Avi is friendly and energetic, absolutely delightful as an instructor.”</p></li></ul><p>So what are you waiting for? <strong>Jumpstart your programming journey</strong> and dive into the world of Python by<strong> enrolling in this course today!</strong></p>",
+      "whoThisCourseIsFor": [
+        "Even if you haven't touched coding before, it won't matter. The easy step-to-step lectures will quickly guide you through everything you'll need to know about coding, mainly Python. This course is here for you to get accustomed and familiar with Python and its syntax. And above all, Python is one of the easiest coding languages to learn, and there's a lot you can do with it."
+      ],
+      "instructors": [
+        {
+          "name": "Avinash Jain",
+          "title": "CEO of TheCodex.me - Teaching 500,000+ Students how to code",
+          "img": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg",
+          "stats": [
+            "4.4 Instructor Rating",
+            "73,859 Reviews",
+            "892,446 Students",
+            "16 Courses"
+          ],
+          "description": "<p><strong><em>&nbsp; &nbsp;</em> </strong>Avinash Jain is currently a senior at UC Berkeley majoring in Electrical Engineering and Computer Science. He's the CEO and Founder of TheCodex, an online educational&nbsp;platform focused on bringing the best programming content to hundreds of&nbsp;thousands of students around the world.</p><p>His programming journey began at the age of 10, starting off with simple Python scripts to crawl the weather.&nbsp;Since then, he's worked at numerous companies and is professionally experienced in Python, iOS Development and Web Development. He's launched a plethora of applications in the App Store amassing thousands of downloads. Additionaly, he's competed and won in&nbsp;several hackathons around the world including PennApps and NWHacks.</p><p>Avinash has a passion to teach - his enthusiasm and love for programming is evident in every video. For the past 7 years he's been an instructor on Udemy and he loves motivating and enabling others to pursue their programming dreams. He hopes to help students realize the power of programming and jumpstart their careers through his courses.</p><p>Checkout TheCodex for all of his courses, fantastic&nbsp;discounts, and&nbsp;any guidance or help.&nbsp;</p>"
+        },
+        {
+          "name": "The Codex",
+          "title": "Teaching Python through Projects",
+          "img": "data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"%3E%3C/svg%3E",
+          "stats": [
+            "4.4 Instructor Rating",
+            "73,859 Reviews",
+            "892,446 Students",
+            "16 Courses"
+          ],
+          "description": "<p>You've taken a lengthy and boring coding class, but you're clueless about applying these concepts to build your ideas. The Codex shows you how to <strong>build fun, practical projects</strong>. Now, you can stand out from the crowd and <strong>land your dream job</strong>.</p><p><br></p><p>Join us on our platform today! </p><p><br></p><p><br></p>"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Asif H.",
+          "stars": "3.0",
+          "date": "2 weeks ago",
+          "content": "Sometimes confusing but was able to clarify. Good job nonetheless."
+        },
+        {
+          "user": "M.S.Swaroop",
+          "stars": "4.0",
+          "date": "3 weeks ago",
+          "content": "the course is specialized so that we learn ourselves deeply,simple and easy"
+        },
+        {
+          "user": "Saurish R.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "In depth concepts of python have been clearly explained. Good chemistry between student and instructor. Fantastic course. Completed every vid and had lot of fun"
+        },
+        {
+          "user": "Shiristi",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "i can't say as i have not taken that many classes yet but so far it is good.\n\nedited( so yeah it was a journey for me many things happen but i am glad they did and also grateful to the person who is guiding me and thanks udemy for these courses really appreciate it !!!)"
+        },
+        {
+          "user": "Ejeshi G.",
+          "stars": "4.0",
+          "date": "4 months ago",
+          "content": "teacher is good and direct, though not prompt at responding to questions and enquiries"
+        },
+        {
+          "user": "Sreelakshmi A.",
+          "stars": "3.0",
+          "date": "2 months ago",
+          "content": "The contents are good for getting a good idea about Python. But it's little bit outdated. Instructor is good. But the sound quality can be improved. Please try to update the content. The course is almost 5 - 6 years old. So, think before purchasing."
+        },
+        {
+          "user": "Shyam K.",
+          "stars": "2.0",
+          "date": "2 weeks ago",
+          "content": "not from the basic .many small but very irritating error comes and i was not able to find the solution in a week also . so it is not satisfying. educator should at least disscuss about all that possible errors."
+        },
+        {
+          "user": "Matthew E G.",
+          "stars": "3.5",
+          "date": "a month ago",
+          "content": "I took this course with Python 3.10 utilizing PyCharm as an IDE, so some of the information is a little dated. With that being said, good basics are covered to where figuring out your solution isn't anything too difficult. This course was definitely incredibly helpful in taking a bigger plunge into Python."
+        },
+        {
+          "user": "Todd G.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "I am still making my way through the course. However, I like the structure and the pace as well as the pdf exercises. I was learning by watching youtube but it is nice having a structured lesson that gradually progresses in difficulty. It's also nice having a certificate as a way to validate what I've learned to others."
+        },
+        {
+          "user": "Bill R.",
+          "stars": "3.5",
+          "date": "4 months ago",
+          "content": "Left mouse pointer on text frequently\n\nRecording setup picked up heavy key strikes making listening difficult.\n\nSolved problems well as they came.\n\nCovered many functions of python and seemed knowledgeable."
+        },
+        {
+          "user": "Rahul T.",
+          "stars": "4.5",
+          "date": "a month ago",
+          "content": "As this course is old now so the codes we take from websites are not there as the websites are updated so please update this course."
+        },
+        {
+          "user": "Ritesh Amar S.",
+          "stars": "4.5",
+          "date": "a month ago",
+          "content": "The course was amazing . Learned a lot new things."
+        },
+        {
+          "user": "Christian B.",
+          "stars": "5.0",
+          "date": "a month ago",
+          "content": "Very descriptive, and made sure that I could understand what was being said!"
+        },
+        {
+          "user": "Sandip P.",
+          "stars": "4.0",
+          "date": "2 months ago",
+          "content": "It was good course. Instructor tried to make everything simple to understand"
+        },
+        {
+          "user": "Maqsood A.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "this course amazing\n\ngives such vast amount of knowledge about python in such a simple way"
+        },
+        {
+          "user": "Abhishek P.",
+          "stars": "3.0",
+          "date": "3 months ago",
+          "content": "Content are good but Audio should be more clear"
+        },
+        {
+          "user": "Ntsako M.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "Great Python programming course. I had not programmed since graduation in 2020 and this course has reignited my love for programming."
+        },
+        {
+          "user": "Muhammad Manzar H.",
+          "stars": "3.5",
+          "date": "2 months ago",
+          "content": "Ok. Better to code with pycharm or other interactive IDEs."
+        },
+        {
+          "user": "Maxime C.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "Vrm bon ! merci d'avoir pris le temps de monter ces video"
+        },
+        {
+          "user": "Gabriel Antonio Blas W.",
+          "stars": "1.0",
+          "date": "2 months ago",
+          "content": "this course is not updated. there are things I cant find or things dont work because he's using an older version of python. I do not recommend this course."
+        },
+        {
+          "user": "Kartik Pandurang L.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "This course is very interesting and it is much more easier to understand because of our teacher!\n\nThank you!"
+        },
+        {
+          "user": "Bob S.",
+          "stars": "4.0",
+          "date": "a month ago",
+          "content": "An old course 6 years, but you learn a lot"
+        },
+        {
+          "user": "Sujit P.",
+          "stars": "5.0",
+          "date": "a month ago",
+          "content": "Well explained. Helpful for beginners!"
+        },
+        {
+          "user": "Rajat D.",
+          "stars": "4.0",
+          "date": "2 months ago",
+          "content": "Good course learned a lot more new things."
+        }
+      ],
+      "reviewsPercentage": ["43", "37", "15", "3", "2"]
+    },
+    {
+      "id": "learning-python-for-data-analysis-and-visualization",
+      "image": "https://img-c.udemycdn.com/course/240x135/396876_cc92_7.jpg",
+      "title": "Learning Python for Data Analysis and Visualization",
+      "shortDescription": "Learn python and how to use it to analyze,visualize and present data. Includes tons of sample code and hours of video!",
+      "author": "Jose Portilla",
+      "rating": { "score": 4.4, "reviews": 18113 },
+      "price": 319.99,
+      "lastUpdate": "9/2019",
+      "locale": "English",
+      "caption": "English [Auto], Indonesian [Auto]",
+      "includes": { "video": 21, "articles": 3, "download": 4 },
+      "whatYouWillLearn": [
+        "Have an intermediate skill level of Python programming.",
+        "Use the Jupyter Notebook Environment.",
+        "Use the numpy library to create and manipulate arrays.",
+        "Use the pandas module with Python to create and structure data.",
+        "Learn how to work with various data formats within python, including: JSON,HTML, and MS Excel Worksheets.",
+        "Create data visualizations using matplotlib and the seaborn modules with python.",
+        "Have a portfolio of various data analysis projects."
+      ],
+      "content": {
+        "sections": 15,
+        "lectures": 110,
+        "total": "21h 5m",
+        "contentDetails": [
+          {
+            "title": "Intro to Course and Python",
+            "lectures": "2",
+            "duration": "7min",
+            "lecturesDetails": [
+              { "title": "Course Intro", "preview": true, "duration": "03:52" },
+              { "title": "Course FAQs", "preview": false, "duration": "03:12" }
+            ]
+          },
+          {
+            "title": "Setup",
+            "lectures": "3",
+            "duration": "33min",
+            "lecturesDetails": [
+              {
+                "title": "Installation Setup and Overview",
+                "preview": false,
+                "duration": "07:16"
+              },
+              {
+                "title": "IDEs and Course Resources",
+                "preview": false,
+                "duration": "10:56"
+              },
+              {
+                "title": "iPython/Jupyter Notebook Overview",
+                "preview": false,
+                "duration": "14:57"
+              }
+            ]
+          },
+          {
+            "title": "Learning Numpy",
+            "lectures": "8",
+            "duration": "1hr 7min",
+            "lecturesDetails": [
+              {
+                "title": "Intro to numpy",
+                "preview": false,
+                "duration": "00:24"
+              },
+              {
+                "title": "Creating arrays",
+                "preview": false,
+                "duration": "07:27"
+              },
+              {
+                "title": "Using arrays and scalars",
+                "preview": false,
+                "duration": "04:41"
+              },
+              {
+                "title": "Indexing Arrays",
+                "preview": false,
+                "duration": "14:19"
+              },
+              {
+                "title": "Array Transposition",
+                "preview": false,
+                "duration": "04:07"
+              },
+              {
+                "title": "Universal Array Function",
+                "preview": false,
+                "duration": "06:04"
+              },
+              {
+                "title": "Array Processing",
+                "preview": false,
+                "duration": "21:48"
+              },
+              {
+                "title": "Array Input and Output",
+                "preview": false,
+                "duration": "07:59"
+              }
+            ]
+          },
+          {
+            "title": "Intro to Pandas",
+            "lectures": "11",
+            "duration": "2hr 12min",
+            "lecturesDetails": [
+              { "title": "Series", "preview": false, "duration": "13:58" },
+              { "title": "DataFrames", "preview": false, "duration": "17:46" },
+              {
+                "title": "Index objects",
+                "preview": false,
+                "duration": "04:59"
+              },
+              { "title": "Reindex", "preview": false, "duration": "15:54" },
+              { "title": "Drop Entry", "preview": false, "duration": "05:41" },
+              {
+                "title": "Selecting Entries",
+                "preview": false,
+                "duration": "10:22"
+              },
+              {
+                "title": "Data Alignment",
+                "preview": false,
+                "duration": "10:14"
+              },
+              {
+                "title": "Rank and Sort",
+                "preview": false,
+                "duration": "05:38"
+              },
+              {
+                "title": "Summary Statistics",
+                "preview": false,
+                "duration": "22:35"
+              },
+              {
+                "title": "Missing Data",
+                "preview": false,
+                "duration": "11:37"
+              },
+              {
+                "title": "Index Hierarchy",
+                "preview": false,
+                "duration": "13:32"
+              }
+            ]
+          },
+          {
+            "title": "Working with Data: Part 1",
+            "lectures": "4",
+            "duration": "23min",
+            "lecturesDetails": [
+              {
+                "title": "Reading and Writing Text Files",
+                "preview": false,
+                "duration": "10:03"
+              },
+              {
+                "title": "JSON with Python",
+                "preview": false,
+                "duration": "04:12"
+              },
+              {
+                "title": "HTML with Python",
+                "preview": false,
+                "duration": "04:36"
+              },
+              {
+                "title": "Microsoft Excel files with Python",
+                "preview": false,
+                "duration": "03:51"
+              }
+            ]
+          },
+          {
+            "title": "Working with Data: Part 2",
+            "lectures": "13",
+            "duration": "1hr 44min",
+            "lecturesDetails": [
+              { "title": "Merge", "preview": false, "duration": "20:31" },
+              {
+                "title": "Merge on Index",
+                "preview": false,
+                "duration": "12:36"
+              },
+              { "title": "Concatenate", "preview": false, "duration": "09:19" },
+              {
+                "title": "Combining DataFrames",
+                "preview": false,
+                "duration": "10:20"
+              },
+              { "title": "Reshaping", "preview": false, "duration": "07:51" },
+              { "title": "Pivoting", "preview": false, "duration": "05:31" },
+              {
+                "title": "Duplicates in DataFrames",
+                "preview": false,
+                "duration": "05:54"
+              },
+              { "title": "Mapping", "preview": false, "duration": "04:12" },
+              { "title": "Replace", "preview": false, "duration": "03:15" },
+              {
+                "title": "Rename Index",
+                "preview": false,
+                "duration": "05:55"
+              },
+              { "title": "Binning", "preview": false, "duration": "06:16" },
+              { "title": "Outliers", "preview": false, "duration": "06:52" },
+              { "title": "Permutation", "preview": false, "duration": "05:21" }
+            ]
+          },
+          {
+            "title": "Working with Data: Part 3",
+            "lectures": "5",
+            "duration": "59min",
+            "lecturesDetails": [
+              {
+                "title": "GroupBy on DataFrames",
+                "preview": false,
+                "duration": "17:41"
+              },
+              {
+                "title": "GroupBy on Dict and Series",
+                "preview": false,
+                "duration": "13:21"
+              },
+              { "title": "Aggregation", "preview": true, "duration": "12:42" },
+              {
+                "title": "Splitting Applying and Combining",
+                "preview": false,
+                "duration": "10:02"
+              },
+              {
+                "title": "Cross Tabulation",
+                "preview": false,
+                "duration": "05:06"
+              }
+            ]
+          },
+          {
+            "title": "Data Visualization",
+            "lectures": "7",
+            "duration": "1hr 28min",
+            "lecturesDetails": [
+              {
+                "title": "Installing Seaborn",
+                "preview": false,
+                "duration": "01:44"
+              },
+              { "title": "Histograms", "preview": false, "duration": "09:19" },
+              {
+                "title": "Kernel Density Estimate Plots",
+                "preview": true,
+                "duration": "25:58"
+              },
+              {
+                "title": "Combining Plot Styles",
+                "preview": false,
+                "duration": "06:14"
+              },
+              {
+                "title": "Box and Violin Plots",
+                "preview": false,
+                "duration": "08:52"
+              },
+              {
+                "title": "Regression Plots",
+                "preview": false,
+                "duration": "18:39"
+              },
+              {
+                "title": "Heatmaps and Clustered Matrices",
+                "preview": false,
+                "duration": "16:49"
+              }
+            ]
+          },
+          {
+            "title": "Example Projects.",
+            "lectures": "17",
+            "duration": "3hr 38min",
+            "lecturesDetails": [
+              {
+                "title": "Data Projects Preview",
+                "preview": false,
+                "duration": "03:02"
+              },
+              {
+                "title": "Intro to Data Projects",
+                "preview": false,
+                "duration": "04:34"
+              },
+              {
+                "title": "Titanic Project - Part 1",
+                "preview": false,
+                "duration": "17:06"
+              },
+              {
+                "title": "Titanic Project - Part 2",
+                "preview": false,
+                "duration": "16:08"
+              },
+              {
+                "title": "Titanic Project - Part 3",
+                "preview": false,
+                "duration": "15:49"
+              },
+              {
+                "title": "Titanic Project - Part 4",
+                "preview": false,
+                "duration": "02:05"
+              },
+              {
+                "title": "Intro to Data Project - Stock Market Analysis",
+                "preview": false,
+                "duration": "03:13"
+              },
+              {
+                "title": "Data Project - Stock Market Analysis Part 1",
+                "preview": false,
+                "duration": "11:19"
+              },
+              {
+                "title": "Data Project - Stock Market Analysis Part 2",
+                "preview": false,
+                "duration": "18:06"
+              },
+              {
+                "title": "Data Project - Stock Market Analysis Part 3",
+                "preview": false,
+                "duration": "10:24"
+              },
+              {
+                "title": "Data Project - Stock Market Analysis Part 4",
+                "preview": false,
+                "duration": "06:56"
+              },
+              {
+                "title": "Data Project - Stock Market Analysis Part 5",
+                "preview": false,
+                "duration": "27:40"
+              },
+              {
+                "title": "Data Project - Intro to Election Analysis",
+                "preview": false,
+                "duration": "02:20"
+              },
+              {
+                "title": "Data Project - Election Analysis Part 1",
+                "preview": false,
+                "duration": "18:00"
+              },
+              {
+                "title": "Data Project - Election Analysis Part 2",
+                "preview": false,
+                "duration": "20:34"
+              },
+              {
+                "title": "Data Project - Election Analysis Part 3",
+                "preview": false,
+                "duration": "15:04"
+              },
+              {
+                "title": "Data Project - Election Analysis Part 4",
+                "preview": false,
+                "duration": "25:57"
+              }
+            ]
+          },
+          {
+            "title": "Machine Learning",
+            "lectures": "20",
+            "duration": "5hr 51min",
+            "lecturesDetails": [
+              {
+                "title": "Introduction to Machine Learning with SciKit Learn",
+                "preview": false,
+                "duration": "12:51"
+              },
+              {
+                "title": "Linear Regression Part 1",
+                "preview": false,
+                "duration": "17:40"
+              },
+              {
+                "title": "Linear Regression Part 2",
+                "preview": false,
+                "duration": "18:21"
+              },
+              {
+                "title": "Linear Regression Part 3",
+                "preview": false,
+                "duration": "18:45"
+              },
+              {
+                "title": "Linear Regression Part 4",
+                "preview": false,
+                "duration": "22:08"
+              },
+              {
+                "title": "Logistic Regression Part 1",
+                "preview": false,
+                "duration": "14:18"
+              },
+              {
+                "title": "Logistic Regression Part 2",
+                "preview": false,
+                "duration": "14:25"
+              },
+              {
+                "title": "Logistic Regression Part 3",
+                "preview": false,
+                "duration": "12:20"
+              },
+              {
+                "title": "Logistic Regression Part 4",
+                "preview": false,
+                "duration": "22:22"
+              },
+              {
+                "title": "Multi Class Classification Part 1 - Logistic Regression",
+                "preview": false,
+                "duration": "18:33"
+              },
+              {
+                "title": "Multi Class Classification Part 2 - k Nearest Neighbor",
+                "preview": false,
+                "duration": "23:05"
+              },
+              {
+                "title": "Support Vector Machines Part 1",
+                "preview": false,
+                "duration": "12:52"
+              },
+              {
+                "title": "Support Vector Machines - Part 2",
+                "preview": false,
+                "duration": "29:07"
+              },
+              {
+                "title": "Naive Bayes Part 1",
+                "preview": false,
+                "duration": "10:03"
+              },
+              {
+                "title": "Naive Bayes Part 2",
+                "preview": false,
+                "duration": "12:26"
+              },
+              {
+                "title": "Decision Trees and Random Forests",
+                "preview": false,
+                "duration": "31:47"
+              },
+              {
+                "title": "Natural Language Processing Part 1",
+                "preview": false,
+                "duration": "07:20"
+              },
+              {
+                "title": "Natural Language Processing Part 2",
+                "preview": false,
+                "duration": "15:39"
+              },
+              {
+                "title": "Natural Language Processing Part 3",
+                "preview": false,
+                "duration": "20:48"
+              },
+              {
+                "title": "Natural Language Processing Part 4",
+                "preview": false,
+                "duration": "16:16"
+              }
+            ]
+          },
+          {
+            "title": "Appendix: Statistics Overview",
+            "lectures": "11",
+            "duration": "1hr 29min",
+            "lecturesDetails": [
+              {
+                "title": "Intro to Appendix B",
+                "preview": false,
+                "duration": "02:44"
+              },
+              {
+                "title": "Discrete Uniform Distribution",
+                "preview": false,
+                "duration": "06:11"
+              },
+              {
+                "title": "Continuous Uniform Distribution",
+                "preview": false,
+                "duration": "07:03"
+              },
+              {
+                "title": "Binomial Distribution",
+                "preview": false,
+                "duration": "12:35"
+              },
+              {
+                "title": "Poisson Distribution",
+                "preview": false,
+                "duration": "10:55"
+              },
+              {
+                "title": "Normal Distribution",
+                "preview": false,
+                "duration": "06:24"
+              },
+              {
+                "title": "Sampling Techniques",
+                "preview": false,
+                "duration": "04:54"
+              },
+              {
+                "title": "T-Distribution",
+                "preview": false,
+                "duration": "05:09"
+              },
+              {
+                "title": "Hypothesis Testing and Confidence Intervals",
+                "preview": false,
+                "duration": "20:08"
+              },
+              {
+                "title": "Chi Square Test and Distribution",
+                "preview": false,
+                "duration": "02:53"
+              },
+              {
+                "title": "Bayes Theorem",
+                "preview": false,
+                "duration": "10:02"
+              }
+            ]
+          },
+          {
+            "title": "Appendix: SQL and Python",
+            "lectures": "3",
+            "duration": "28min",
+            "lecturesDetails": [
+              {
+                "title": "Introduction to SQL with Python",
+                "preview": false,
+                "duration": "09:59"
+              },
+              {
+                "title": "SQL - SELECT,DISTINCT,WHERE,AND & OR",
+                "preview": false,
+                "duration": "09:58"
+              },
+              {
+                "title": "SQL WILDCARDS, ORDER BY, GROUP BY and Aggregate Functions",
+                "preview": false,
+                "duration": "08:25"
+              }
+            ]
+          },
+          {
+            "title": "Appendix: Web Scraping with Python",
+            "lectures": "2",
+            "duration": "24min",
+            "lecturesDetails": [
+              {
+                "title": "Web Scraping Part 1",
+                "preview": false,
+                "duration": "12:14"
+              },
+              {
+                "title": "Web Scraping Part 2",
+                "preview": false,
+                "duration": "12:14"
+              }
+            ]
+          },
+          {
+            "title": "Appendix: Python Special Offers",
+            "lectures": "3",
+            "duration": "41min",
+            "lecturesDetails": [
+              {
+                "title": "Python Overview Part 1",
+                "preview": false,
+                "duration": "18:52"
+              },
+              {
+                "title": "Python Overview Part 2",
+                "preview": false,
+                "duration": "12:18"
+              },
+              {
+                "title": "Python Overview Part 3",
+                "preview": false,
+                "duration": "10:13"
+              }
+            ]
+          },
+          {
+            "title": "BONUS SECTION: THANK YOU!",
+            "lectures": "1",
+            "duration": "1min",
+            "lecturesDetails": [
+              {
+                "title": "Bonus Lecture",
+                "preview": false,
+                "duration": "00:10"
+              }
+            ]
+          }
+        ]
+      },
+      "requirements": [
+        "Basic math skills.",
+        "Basic to Intermediate Python Skills",
+        "Have a computer (either Mac, Windows, or Linux)",
+        "Desire to learn!"
+      ],
+      "descriptionHTML": "<p><br></p><p><strong>PLEASE&nbsp;READ&nbsp;BEFORE&nbsp;ENROLLING:&nbsp;</strong></p><p><strong>1.)&nbsp;THERE&nbsp;IS&nbsp;AN&nbsp;UPDATED&nbsp;VERSION&nbsp;OF&nbsp;THIS&nbsp;COURSE:&nbsp;</strong></p><p><strong>\"PYTHON&nbsp;FOR&nbsp;DATA&nbsp;SCIENCE&nbsp;AND&nbsp;MACHINE&nbsp;LEARNING BOOTCAMP\"&nbsp;</strong></p><p><strong>2.)&nbsp;IF YOU ARE A COMPLETE BEGINNER IN PYTHON-CHECK OUT MY OTHER COURSE \"COMPLETE&nbsp;PYTHON&nbsp;MASTERCLASS&nbsp;JOURNEY\"!</strong></p><p><br></p><p><strong>CLICK&nbsp;ON&nbsp;MY&nbsp;PROFILE&nbsp;TO&nbsp;FIND&nbsp;IT. (PLEASE&nbsp;WATCH&nbsp;THE&nbsp;FIRST&nbsp;PROMO&nbsp;VIDEO&nbsp;ON&nbsp;THIS&nbsp;PAGE&nbsp;FOR&nbsp;MORE&nbsp;INFO)</strong></p><p>**********************************************************************************************************</p><p><br></p><p><strong>This course will give you the resources to learn python and effectively use it analyze and visualize data! Start your career in Data Science!</strong></p><p>&nbsp; \t&nbsp; You'll get a full understanding of how to program with Python and how to use it in conjunction with scientific computing modules and libraries to analyze data.&nbsp; </p><p>&nbsp; \tYou will also get lifetime access to over 100 example python code notebooks, new and updated videos, as well as future additions of various data analysis projects that you can use for a portfolio to show future employers!&nbsp; </p><p>&nbsp; \t&nbsp; By the end of this course you will:&nbsp; </p><p>&nbsp; \t- Have an understanding of how to program in Python.&nbsp; </p><p>&nbsp; \t- Know how to create and manipulate arrays using numpy and Python.&nbsp; </p><p>&nbsp; \t- Know how to use pandas to create and analyze data sets.&nbsp; </p><p>&nbsp; \t- Know how to use matplotlib and seaborn libraries to create beautiful data visualization.&nbsp; </p><p>&nbsp; \t- Have an amazing portfolio of example python data analysis projects!&nbsp; </p><p>- Have an understanding of Machine Learning and SciKit Learn! </p><p>&nbsp; \tWith 100+ lectures and over 20 hours of information and more than 100 example python code notebooks, you will be excellently prepared for a future in data science!&nbsp; </p>",
+      "whoThisCourseIsFor": [
+        "Anyone interested in learning more about python, data science, or data visualizations.",
+        "Anyone interested about the rapidly expanding world of data science!"
+      ],
+      "instructors": [
+        {
+          "name": "Jose Portilla",
+          "title": "Head of Data Science at Pierian Training",
+          "img": "data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"%3E%3C/svg%3E",
+          "stats": [
+            "4.6 Instructor Rating",
+            "939,702 Reviews",
+            "3,010,470 Students",
+            "54 Courses"
+          ],
+          "description": "<p>Jose Marcial Portilla has a BS and MS in Mechanical Engineering from Santa Clara University and&nbsp;years of&nbsp;experience as a professional instructor and trainer for Data Science, Machine Learning and Python Programming. He has publications and patents in various fields such as microfluidics,&nbsp;materials science, and data science. Over the course of his career he has developed a skill set in analyzing data and he hopes to use his experience in teaching and data science to help other people learn the power of programming, the&nbsp;ability to analyze data, and the skills needed to present the data in clear and beautiful visualizations. Currently he works as the Head of Data Science for Pierian Training&nbsp;and provides in-person data science and python programming training courses to employees working at top companies, including General Electric, Cigna, The New York Times, Credit Suisse, McKinsey and many more.&nbsp;Feel free to check out the website link to find out more information about training offerings.</p>"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Bryan P.",
+          "stars": "2.5",
+          "date": "3 weeks ago",
+          "content": "His voice in each video can either be audible or barely audible. If it was consistent then it would be fine, but I have to keep adjusting the volume."
+        },
+        {
+          "user": "Redon D.",
+          "stars": "4.0",
+          "date": "3 weeks ago",
+          "content": "I found the course to be amazing, the instructor was clear and easy to follow. The instructions were easily available and covered almost every thing I could have asked for. The Q&A section was helpful as well. One negative aspect was that it did not exhaust all the topic especially from the data visualization were matplotlib did not even have a section."
+        },
+        {
+          "user": "Tanishq",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "course is good but please update these course because many of the code which is being used has been updated and some of the code doesn't work because of updating please mention these kind of thing while purchase because if you provide a updated course with 500 i thing you sale will boost up may be you ca raise price around 1500 rs we can spend that much of money for knowledge"
+        },
+        {
+          "user": "Jerell S.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "Instructor was very clear and knowledgeable. I was able to understand all the concepts and apply them. The course was a little outdated but I was still able to get almost everything to work."
+        },
+        {
+          "user": "Sechaba M.",
+          "stars": "4.5",
+          "date": "5 months ago",
+          "content": "Really enjoyed the course, being a total beginner it really set a good foundation."
+        },
+        {
+          "user": "Mouayad M.",
+          "stars": "2.0",
+          "date": "a month ago",
+          "content": "Felt like many code parts / concepts were skimmed over with no explanation whatsoever - I understand that many concepts were previously explained or encouraged to further explore by yourself, however some code parts should've been atleast explained to some degree. Big fan of Jose in general from this other courses, I think he's a great tutor"
+        },
+        {
+          "user": "Justin M.",
+          "stars": "5.0",
+          "date": "4 weeks ago",
+          "content": "Awesome teacher! I'm enjoying the presented course material and learning a lot. Thank you Jose !!!!!"
+        },
+        {
+          "user": "Ferdinand I.",
+          "stars": "5.0",
+          "date": "a month ago",
+          "content": "I haven't even finished the course actually, but I must commend its so so amazing and its worth it."
+        },
+        {
+          "user": "Nathan K.",
+          "stars": "1.0",
+          "date": "3 months ago",
+          "content": "Very dry lectures, he talks about code without explaining what each means. Plus a lot of the code is out of date and invalid. There are also loads of typos in the Jupyter Notebook that just make the course seem sloppy. Would definitely not recommend buying this one in 2022."
+        },
+        {
+          "user": "Bhuvana R.",
+          "stars": "3.0",
+          "date": "3 months ago",
+          "content": "Lots of codes relate to Python2 and it has been very difficult to search constantly search for the replacement for the deprecated commands"
+        },
+        {
+          "user": "Abraham B.",
+          "stars": "4.0",
+          "date": "3 months ago",
+          "content": "many of the syntax are old...may renew them :D"
+        },
+        {
+          "user": "Ilaria B.",
+          "stars": "5.0",
+          "date": "4 months ago",
+          "content": "Yes, courses broken down in small digestible videos, easy to follow along"
+        },
+        {
+          "user": "Rahul kumar P.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "So far I am more than satisfied with the instructions"
+        },
+        {
+          "user": "Ben S.",
+          "stars": "1.0",
+          "date": "a month ago",
+          "content": "Many methods in the pandas library discussed are now no longer in use. information is outdated and not relevant to current version. PLEASE UPDATE"
+        },
+        {
+          "user": "Nam N.",
+          "stars": "3.0",
+          "date": "2 months ago",
+          "content": "The python language taught is obsolete which left a lot to be desired"
+        },
+        {
+          "user": "Sravan K.",
+          "stars": "4.0",
+          "date": "a month ago",
+          "content": "It would have been better, had the author updated the course with latest module names. Since it's a highly suggested course from Udemy, one would expect to learn the latest stuff from one source, instead of searching for the updated versions on the web."
+        },
+        {
+          "user": "Raghavendra Pavan N.",
+          "stars": "5.0",
+          "date": "a month ago",
+          "content": "Excellent course"
+        },
+        {
+          "user": "Amr E.",
+          "stars": "1.0",
+          "date": "a month ago",
+          "content": "Unfortunately, Just A waste of time."
+        },
+        {
+          "user": "Mithil B.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "Amazing course with lots of information!"
+        },
+        {
+          "user": "Sekai C.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "easy voice to listen to, descriptive and complete. I find the information easy enough to follow and comprehend."
+        },
+        {
+          "user": "Markus S.",
+          "stars": "2.0",
+          "date": "3 months ago",
+          "content": "this course is very outdated; lecture 27 still talks about pandas.io.data which in 2022 hasn't existed for a long time!"
+        },
+        {
+          "user": "Alexandre Dargains A. D.",
+          "stars": "4.5",
+          "date": "a month ago",
+          "content": "Really interesting content!"
+        },
+        {
+          "user": "Lee Kah K.",
+          "stars": "2.0",
+          "date": "4 months ago",
+          "content": "Seriously outdated. Instructor did not bother to update the materials."
+        },
+        {
+          "user": "HUSEYIN A.",
+          "stars": "5.0",
+          "date": "8 months ago",
+          "content": "It was very important knowledge for me... I started to like data analysis and mashine learning..."
+        }
+      ],
+      "reviewsPercentage": ["46", "36", "13", "3", "2"]
+    },
+    {
+      "id": "python-for-beginners-learn-programming-from-scratch",
+      "image": "https://img-c.udemycdn.com/course/240x135/405878_e5a0_3.jpg",
+      "title": "Python for Beginners - Learn Programming from scratch",
+      "shortDescription": "Python For Beginners : This course is meant for absolute beginners in programming or in python.",
+      "author": "Edwin Diaz",
+      "rating": { "score": 4.4, "reviews": 1896 },
+      "price": 269.99,
+      "lastUpdate": "5/2022",
+      "locale": "English",
+      "caption": "English [Auto]",
+      "includes": { "video": 2.5, "articles": 1, "download": 1 },
+      "whatYouWillLearn": [
+        "To learn the python language",
+        "To learn the CORE skills to understand any programming language"
+      ],
+      "content": {
+        "sections": 6,
+        "lectures": 42,
+        "total": "2h 36m",
+        "contentDetails": [
+          {
+            "title": "Programming fundamentals",
+            "lectures": "10",
+            "duration": "40min",
+            "lecturesDetails": [
+              { "title": "Introduction", "preview": true, "duration": "00:54" },
+              {
+                "title": "What is programming?",
+                "preview": true,
+                "duration": "04:16"
+              },
+              {
+                "title": "What is source code?",
+                "preview": true,
+                "duration": "06:13"
+              },
+              {
+                "title": "Compile VS Interpreted Languages",
+                "preview": false,
+                "duration": "05:43"
+              },
+              {
+                "title": "Strings and numbers",
+                "preview": false,
+                "duration": "01:36"
+              },
+              { "title": "Variables", "preview": false, "duration": "03:49" },
+              {
+                "title": "Lists, Arrays or Collections",
+                "preview": false,
+                "duration": "03:55"
+              },
+              {
+                "title": "Conditional Code - If statements",
+                "preview": false,
+                "duration": "03:42"
+              },
+              { "title": "Loops", "preview": false, "duration": "05:36" },
+              { "title": "Functions", "preview": false, "duration": "03:54" }
+            ]
+          },
+          {
+            "title": "Getting Started with Python",
+            "lectures": "5",
+            "duration": "15min",
+            "lecturesDetails": [
+              {
+                "title": "intro to getting started",
+                "preview": false,
+                "duration": "01:01"
+              },
+              {
+                "title": "What is Python?",
+                "preview": false,
+                "duration": "01:16"
+              },
+              {
+                "title": "Installing Python",
+                "preview": false,
+                "duration": "03:59"
+              },
+              {
+                "title": "Running Python IDLE and online",
+                "preview": false,
+                "duration": "04:46"
+              },
+              {
+                "title": "Installing IDE",
+                "preview": false,
+                "duration": "04:10"
+              }
+            ]
+          },
+          {
+            "title": "Python Basics",
+            "lectures": "8",
+            "duration": "35min",
+            "lecturesDetails": [
+              {
+                "title": "Intro to python basics",
+                "preview": false,
+                "duration": "01:05"
+              },
+              {
+                "title": "Exercise files",
+                "preview": false,
+                "duration": "00:03"
+              },
+              {
+                "title": "Strings & print function",
+                "preview": false,
+                "duration": "07:02"
+              },
+              {
+                "title": "Numbers / Math",
+                "preview": false,
+                "duration": "04:10"
+              },
+              { "title": "Variables", "preview": false, "duration": "05:54" },
+              { "title": "Lists", "preview": false, "duration": "06:35" },
+              { "title": "Tuples", "preview": false, "duration": "05:42" },
+              { "title": "Dictionaries", "preview": false, "duration": "04:08" }
+            ]
+          },
+          {
+            "title": "Conditional structures",
+            "lectures": "5",
+            "duration": "22min",
+            "lecturesDetails": [
+              {
+                "title": "intro to conditional code",
+                "preview": false,
+                "duration": "00:55"
+              },
+              {
+                "title": "If Statements",
+                "preview": false,
+                "duration": "06:18"
+              },
+              { "title": "While Loop", "preview": false, "duration": "06:50" },
+              { "title": "For loop", "preview": false, "duration": "05:27" },
+              {
+                "title": "Break and Continue",
+                "preview": false,
+                "duration": "02:33"
+              }
+            ]
+          },
+          {
+            "title": "Functions",
+            "lectures": "9",
+            "duration": "33min",
+            "lecturesDetails": [
+              {
+                "title": "intro to functions",
+                "preview": false,
+                "duration": "00:42"
+              },
+              {
+                "title": "Custom Functions & arguments",
+                "preview": false,
+                "duration": "03:10"
+              },
+              {
+                "title": "Functions with arguments",
+                "preview": false,
+                "duration": "04:44"
+              },
+              {
+                "title": "Function variable scopes",
+                "preview": false,
+                "duration": "04:26"
+              },
+              {
+                "title": "Function return",
+                "preview": false,
+                "duration": "04:14"
+              },
+              {
+                "title": "Functions with flexible arguments",
+                "preview": false,
+                "duration": "04:35"
+              },
+              { "title": "Unpacking", "preview": false, "duration": "03:40" },
+              { "title": "Modules", "preview": false, "duration": "04:06" },
+              {
+                "title": "Built in functions",
+                "preview": false,
+                "duration": "03:45"
+              }
+            ]
+          },
+          {
+            "title": "Working with files",
+            "lectures": "5",
+            "duration": "12min",
+            "lecturesDetails": [
+              {
+                "title": "Intro to working files",
+                "preview": false,
+                "duration": "00:31"
+              },
+              {
+                "title": "Opening / Creating files / Writing files",
+                "preview": false,
+                "duration": "03:17"
+              },
+              {
+                "title": "File reading",
+                "preview": false,
+                "duration": "03:06"
+              },
+              {
+                "title": "Renaming files",
+                "preview": false,
+                "duration": "03:38"
+              },
+              {
+                "title": "Deleting files",
+                "preview": false,
+                "duration": "01:17"
+              }
+            ]
+          }
+        ]
+      },
+      "requirements": ["NO programming knowledge required"],
+      "descriptionHTML": "<p><strong>NEW PYTHON CODE&nbsp;</strong></p>\n\n<p>This python for beginners course is geared to students who want to know how python works and also to those totally new to programming.</p>\n\n\n\n\n\n<p>The python language has very simple syntax(way to write it) to learn and it is one of the most powerful languages to learn since it can used for a variety of things.</p>\n\n\n\n\n\n<p><strong>Here are some:</strong></p>\n\n\n\n\n\n<ol><li>Data analysis</li><li>Game development</li><li>Visualization</li><li>Web development</li><li>Robotics</li><li>and more....</li></ol>\n\n\n\n\n\n<p><br></p>\n\n\n\n\n\n<p>Jobs in this field are really lucrative and knowing this language will give you an edge when finding a job and making a lot more money than other developers; python developers are not as many as in other languages since people think is hard. Python is super easy to learn but very powerful since it contains many possibilities.<br></p>\n\n\n\n\n\n<p>Python is growing faster and faster everyday and it has surpassed many other languages over the years for a lot of reasons, which you will find out soon enough.</p>\n\n\n\n\n\n<p>------------------------------------------------------------------------------</p>\n\n\n\n\n\n<p><strong>Why take this course?</strong></p>\n\n\n\n\n\n<p>This course starts with explaining what programming really is? Have you ever wondered how things actually work in a program?</p>\n\n\n\n\n\n<p>1. <strong>Teaches the foundation of GENERAL programming</strong></p>\n\n\n\n\n\n<p>Every student should have some foundations on what programming really is before learning any language, why? Because once you understand the core components of programming it will be a lot easier to learn any language and create better programs.</p>\n\n\n\n\n\n<p>2. <strong>New lectures added all the time</strong></p>\n\n\n\n\n\n<p>When you like what you do, it reflects. This is not a job for me, so I wake up wanting to code and help my students. Basically you pay once, get the course forever and get extra values added all the time, you have to love that :)</p>\n\n\n\n\n\n<p>3.<strong> Fun place to be </strong><br></p>\n\n\n\n\n\n<p>I love making my lectures fun and engaging, so no boring lectures here!</p>\n\n\n\n\n\n<p>4. <strong>T</strong><strong>he support you get in this course in unmatched</strong></p>\n\n\n\n\n\n<p>have you ever joined a class and received very little support or none at all? Well that is not going to happen in this class, because I love helping my students.</p>\n\n\n\n\n\n<p><br></p>",
+      "whoThisCourseIsFor": [
+        "Student totally new to programming",
+        "Student totally new to python"
+      ],
+      "instructors": [
+        {
+          "name": "Edwin Diaz",
+          "title": "Web Developer & Premium Instructor - 800,000 students",
+          "img": "data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"%3E%3C/svg%3E",
+          "stats": [
+            "4.4 Instructor Rating",
+            "123,352 Reviews",
+            "828,895 Students",
+            "47 Courses"
+          ],
+          "description": "<p><strong>Edwin Diaz</strong> is a software and web technologies engineer, a life coach trainer who is also a<strong> serial entrepreneur</strong> with multiple <strong>online businesses,</strong> ranging from online jewelry shops, affiliate websites, application development and consultations services, personal online schools, etc.</p><p>With over <strong>one million students</strong>, and clients growing by the thousands a day, Mr. Diaz lets the numbers speak for themselves.</p><p>Founding multiple online companies have allowed Mr. Diaz to have the time to teach others. He currently teaches web technologies on different online platforms. He also teaches life coaching sessions to help others achieve a high level of success in many areas of life.</p><p>For Mr. Diaz, there is nothing more rewarding than helping others become successful.</p><p>His ability to transmit energy, enthusiasm, and complex knowledge allows him to do what he does best \"Teach\".</p><p>Teaching is not just a job for Mr. Diaz but a way of life that continues to flourish every single day.</p><p>Apart from teaching he enjoys spending part of his time with his family.</p>"
+        },
+        {
+          "name": "Coding Faculty Solutions",
+          "title": "Coding Faculty",
+          "img": "data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"%3E%3C/svg%3E",
+          "stats": [
+            "4.4 Instructor Rating",
+            "115,054 Reviews",
+            "737,536 Students",
+            "38 Courses"
+          ],
+          "description": "<p>Coding Faculty creates&nbsp;high quality technology training content.&nbsp;We aim to teach technology the right&nbsp;way but at the same time putting emphasis on each of&nbsp;our students.&nbsp;We are a&nbsp;growing team of&nbsp;professional trainers who love our work but overall helping our students reach their maximum potential in their career.</p>"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Ashu C.",
+          "stars": "3.0",
+          "date": "3 weeks ago",
+          "content": "i am a homemaker learning languages on udemy hoping for a better future , i hope this will help me in achieving what i want . I am so far able to understand lecture let 's see what comes ahead ."
+        },
+        {
+          "user": "Senduran B.",
+          "stars": "5.0",
+          "date": "3 weeks ago",
+          "content": "Edwin is a wonderful teacher! His lectures are very short but also informative and really encourages you to code along with him. The lectures were not only easy to follow but Edwin himself was an engaging lecturer that made it really easy to pay attention. His words of encouragement were a nice bonus. I super recommend this course to anyone who wants to get started in Python"
+        },
+        {
+          "user": "Mike M.",
+          "stars": "5.0",
+          "date": "3 weeks ago",
+          "content": "This was a great learning experience. It was fun and I learned a lot."
+        },
+        {
+          "user": "Chad F.",
+          "stars": "4.5",
+          "date": "2 months ago",
+          "content": "Edwin is good instructor. I'll be referring back to his lessons and my notes as I really learn to code Python by practicing it over and over -- Edwin is right that is the only way! I really enjoyed this course and it will be useful to me."
+        },
+        {
+          "user": "Chetan P.",
+          "stars": "4.0",
+          "date": "3 months ago",
+          "content": "I expect how to take input at runtime, this is also one of the basic part which has not shown. To execute addition of two values, I want to take inpute at runtime which is not included here. That will add extra benefit as we have included file handling and not runtime input."
+        },
+        {
+          "user": "Luis A.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "This course was amazing at teaching the basics to someone with little to no knowledge of coding. I am extremely pleased with what I learned in such a short amount of time. Definitely recommend this course for any complete beginners at coding and/or python."
+        },
+        {
+          "user": "Jacob E.",
+          "stars": "4.5",
+          "date": "a month ago",
+          "content": "This course is really solid because I can move at my own pace and the instructor is clear and takes pride in the material."
+        },
+        {
+          "user": "Julia Andema A.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "I like the fact that the lecturer is explaining everything in detail so that we know the basics and we are comfortable with starting our own programming."
+        },
+        {
+          "user": "Davin S.",
+          "stars": "4.5",
+          "date": "2 months ago",
+          "content": "Edwin does a great job introducing the tools to get started, resources for help, and walking you through short exercises for an introduction to coding in python. As a complete beginner I appreciated his methods that allowed me to follow along, stop and replay in short sections, completing my exercise files at my own pace. Edwin's friendly and encouraging approach was great. Thanks!"
+        },
+        {
+          "user": "Sagnik B.",
+          "stars": "4.0",
+          "date": "a month ago",
+          "content": "Yea in simple terms I really enjoyed this one and it was pretty easy to grab the concepts as a beginner, especially based on the way our instructor explained."
+        },
+        {
+          "user": "Maria Ovais G.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "I attempt my first course which I completed and that is my great experience. Learned a lot about python as a beginner."
+        },
+        {
+          "user": "Gaurav S.",
+          "stars": "4.0",
+          "date": "2 months ago",
+          "content": "Good introductory course, especially for those such as myself, who have absolutely no prior knowledge of programming. Very simple to follow.\n\nAs a suggestion, it would have been nice to see more live examples (i.e. actual usage) of the commands. For example, i still don't understand where and how to use the various Functions!\n\nthanks Edwin"
+        },
+        {
+          "user": "Ann-Marie O.",
+          "stars": "5.0",
+          "date": "a month ago",
+          "content": "It was a good intro to Python, it breaks down the jargon that can often be overwhelming for a beginner."
+        },
+        {
+          "user": "Raymond H.",
+          "stars": "1.0",
+          "date": "3 months ago",
+          "content": "Not what I expected to be a beginner course. I'm here to learn about \"grammar\" of python. What this course are a preview of python. So I guess, wrong class for me. Bye."
+        },
+        {
+          "user": "Jonathan C T.",
+          "stars": "1.0",
+          "date": "4 months ago",
+          "content": "Gave it time and got much better! One thing I'd like to know is why we would use append or change what the item displays. Like what real world scenarios would we code like this for?\n\nFinished course. It says congrats on finishing course and can't print my certificate!!"
+        },
+        {
+          "user": "Arun P.",
+          "stars": "5.0",
+          "date": "2 months ago",
+          "content": "It was really interesting and the way it is thought was simple to understand."
+        },
+        {
+          "user": "Edwin P.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "Enjoying this simple course by instructor Edwin! He makes it short but with enough info to understand the basics of python."
+        },
+        {
+          "user": "Charlie Lopez R.",
+          "stars": "4.0",
+          "date": "3 weeks ago",
+          "content": "I've watched many lessons on Youtube and this one is different but very good."
+        },
+        {
+          "user": "Nadheera R.",
+          "stars": "4.5",
+          "date": "4 months ago",
+          "content": "This was an extremely informative course, I learned so much about Python. My instructor was great and very easy to learn from. I will continue to practice what I've learned and be able to obtain employment as a Python coder."
+        },
+        {
+          "user": "Shivansh M.",
+          "stars": "4.5",
+          "date": "3 months ago",
+          "content": "The course so far (since a I'm half way through) has been amazing and the way the instructor's teaches makes it more interesting for me to learn"
+        },
+        {
+          "user": "Rathijit B.",
+          "stars": "4.0",
+          "date": "3 months ago",
+          "content": "I liked the simple example oriented approach. But to add to this, if one has an idea or knowledge about programming language, then he/she can finish this in 2 days. Like the name suggests, it's a very basic course, just to know the syntax mainly. I enjoyed it :)"
+        },
+        {
+          "user": "Jackson D.",
+          "stars": "4.0",
+          "date": "4 weeks ago",
+          "content": "Very well done but I wish there was more of an explanation on windows and sometimes the CC is wildly wrong. The instructor is great though!"
+        },
+        {
+          "user": "Luke M.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "This was a great experience. The instructor is amazing at handling beginner/intermediate level programmers."
+        },
+        {
+          "user": "Marcelo Martins A.",
+          "stars": "5.0",
+          "date": "a month ago",
+          "content": "Yes. Was a good experience for me to learn a some about Pyton."
+        }
+      ],
+      "reviewsPercentage": ["45", "39", "13", "2", "1"]
+    },
+    {
+      "id": "learn-python",
+      "image": "https://img-c.udemycdn.com/course/240x135/426570_1b91_3.jpg",
+      "title": "Learn Python: Python for Beginners",
+      "shortDescription": "Python introduction for beginners. Learn complete Python from scratch!",
+      "author": "Abrar Hussain",
+      "rating": { "score": 4.2, "reviews": 2790 },
+      "price": 269.99,
+      "lastUpdate": "11/2018",
+      "locale": "English",
+      "caption": "English [Auto]",
+      "includes": { "video": 1.5, "articles": 0, "download": 6 },
+      "whatYouWillLearn": [
+        "Create fully functional Python programs",
+        "Understand user input",
+        "Learn about loop structures and conditionals",
+        "Correctly execute operations in Python",
+        "Work with Python file handling",
+        "Create and modify data structures in Python",
+        "Manipulate strings and data"
+      ],
+      "content": {
+        "sections": 7,
+        "lectures": 27,
+        "total": "1h 15m",
+        "contentDetails": [
+          {
+            "title": "Getting Started",
+            "lectures": "4",
+            "duration": "6min",
+            "lecturesDetails": [
+              { "title": "Welcome!", "preview": true, "duration": "01:11" },
+              {
+                "title": "Install Python",
+                "preview": false,
+                "duration": "01:14"
+              },
+              {
+                "title": "About Python",
+                "preview": false,
+                "duration": "01:40"
+              },
+              { "title": "Hello World", "preview": true, "duration": "01:30" }
+            ]
+          },
+          {
+            "title": "The Basics",
+            "lectures": "9",
+            "duration": "24min",
+            "lecturesDetails": [
+              {
+                "title": "Basic Syntax",
+                "preview": false,
+                "duration": "01:41"
+              },
+              { "title": "Variables", "preview": false, "duration": "02:00" },
+              { "title": "Strings", "preview": false, "duration": "02:26" },
+              { "title": "Lists", "preview": false, "duration": "04:22" },
+              {
+                "title": "Dictionaries",
+                "preview": false,
+                "duration": "04:07"
+              },
+              { "title": "Tuples", "preview": false, "duration": "04:45" },
+              {
+                "title": "Extra: Tuple Unpacking",
+                "preview": false,
+                "duration": "01:15"
+              },
+              { "title": "Exercise", "preview": false, "duration": "01:34" },
+              {
+                "title": "Exercise Solution",
+                "preview": false,
+                "duration": "01:47"
+              }
+            ]
+          },
+          {
+            "title": "Conditionals and Loops",
+            "lectures": "5",
+            "duration": "17min",
+            "lecturesDetails": [
+              {
+                "title": "If-Else Statements",
+                "preview": false,
+                "duration": "06:01"
+              },
+              { "title": "For Loops", "preview": false, "duration": "03:26" },
+              { "title": "While Loops", "preview": true, "duration": "02:47" },
+              {
+                "title": "Pass, Break, and Continue",
+                "preview": false,
+                "duration": "03:18"
+              },
+              {
+                "title": "Extra: Exercise Loop",
+                "preview": false,
+                "duration": "01:19"
+              }
+            ]
+          },
+          {
+            "title": "User Input",
+            "lectures": "2",
+            "duration": "7min",
+            "lecturesDetails": [
+              {
+                "title": "User Input and Casting",
+                "preview": false,
+                "duration": "02:40"
+              },
+              { "title": "Exceptions", "preview": true, "duration": "04:06" }
+            ]
+          },
+          {
+            "title": "Functions and Files",
+            "lectures": "4",
+            "duration": "13min",
+            "lecturesDetails": [
+              {
+                "title": "Understanding Functions",
+                "preview": false,
+                "duration": "04:08"
+              },
+              {
+                "title": "Opening and Reading Files",
+                "preview": false,
+                "duration": "03:23"
+              },
+              {
+                "title": "Writing to Files",
+                "preview": true,
+                "duration": "02:52"
+              },
+              {
+                "title": "Copying a File",
+                "preview": false,
+                "duration": "03:05"
+              }
+            ]
+          },
+          {
+            "title": "Classes and Objects",
+            "lectures": "2",
+            "duration": "6min",
+            "lecturesDetails": [
+              {
+                "title": "Creating Classes",
+                "preview": true,
+                "duration": "04:07"
+              },
+              { "title": "Objects", "preview": false, "duration": "02:19" }
+            ]
+          },
+          {
+            "title": "Graphics and Animatons",
+            "lectures": "1",
+            "duration": "2min",
+            "lecturesDetails": [
+              {
+                "title": "Tkinter Intro",
+                "preview": false,
+                "duration": "02:29"
+              }
+            ]
+          }
+        ]
+      },
+      "requirements": [
+        "Internet Connection",
+        "Mac OSX or PC with Windows Vista or Newer or Linux"
+      ],
+      "descriptionHTML": "<p style=\"\"><strong style=\"\">Do you want to become a programmer?</strong><br style=\"\"></p><p style=\"\"><strong style=\"\">Do you want to be able to create games, work with files, manipulate data, and much more?</strong></p><p style=\"\">If you want to learn programming or are learning Python for the first time, then you've come to the right place!</p><p style=\"\">Python is a <strong style=\"\">powerful, modern</strong> programming language that has the capabilities required for experienced programmers, while being easy enough for beginners to learn. Python is a <strong style=\"\">well-developed, stable, and fun</strong> programming language that is suitable for complex and simple development projects. Programmers love Python because of how <strong style=\"\">simple and easy</strong> it is to use.</p><p style=\"\">This course has <strong style=\"\">everything you need</strong> to get started with Python. We'll first start with the basics of Python - learning about strings, variables, and data types. Then, we'll move on to loops and conditionals. Once we're done with that, we'll learn about functions and files in Python. All of this will culminate towards <strong style=\"\">building a fun game </strong>using the concepts we've learned in Python. The entire course is filled with exercises that <strong style=\"\">challenge you</strong> so that you get the best experience possible.</p><p style=\"\">I hope you're excited to dive into Python with this course. So what are you waiting for?<strong style=\"\"> Let's get started!</strong></p>",
+      "whoThisCourseIsFor": [
+        "Programmers",
+        "Students and Teachers",
+        "Beginners",
+        "Anyone who wants to learn to program with Python!"
+      ],
+      "instructors": [
+        {
+          "name": "Abrar Hussain",
+          "title": "Programmer, Student",
+          "img": "data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"%3E%3C/svg%3E",
+          "stats": [
+            "4.2 Instructor Rating",
+            "2,790 Reviews",
+            "29,132 Students",
+            "1 Course"
+          ],
+          "description": "<p>\t Hi, I'm Abrar! I'm a student at the University of Toronto with a passion for programming.</p>\n\n<p>\t I started learning about programming through the Stanford Engineering Everywhere program years ago, where I worked through the multiple available courses. After that, I dedicated myself towards learning Python and other programming languages so that I could build applications that are useful to people.</p>\n\n\n\n<p>I'm spending most of my time off of this platform, so if you have a question that I haven't responded to on the board, feel free to message me through the other channels.  <br></p>"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Apatrickallen14@Aol.Com",
+          "stars": "5.0",
+          "date": "4 weeks ago",
+          "content": "I have never thought I would even attempt to get into coding but times have called for it and this course has been very helpful the pace is a little fast but the coaching and examples are easy to understand and each aspect of the lectures are making it easier for me to understand!"
+        },
+        {
+          "user": "Mveli H.",
+          "stars": "2.0",
+          "date": "4 months ago",
+          "content": "first of all the lecturer was not explaining for beginners and I still don't know how access the extra resources. I couldn't view the notes on the videos(it didn't allow me to). From section I had to look at other videos from Youtube because I really could not understand the lecturer."
+        },
+        {
+          "user": "Vedant R.",
+          "stars": "5.0",
+          "date": "5 months ago",
+          "content": "It is a basic introduction to python. However it doesn't have plenty of exercises with ans. Only one- two questions are discussed as questions. It is a great course to start for beginners however they should look for some terms used in python from net or youtube in order to avoid getting confused at their first introduction in the lecture"
+        },
+        {
+          "user": "Γιάννης",
+          "stars": "4.0",
+          "date": "5 months ago",
+          "content": "Indeed it was a good match.\n\nTo the last courses my personal opinion is that the tutors where really fast making the task of understanding, i would say challenging.."
+        },
+        {
+          "user": "MD. Shamsul A.",
+          "stars": "4.5",
+          "date": "6 months ago",
+          "content": "Course is good for those people's who's very new in python. But quite hard to understand for locals. Good to see that some new contents were added in this course that could help to gain knowledge for the beginners.Though all the codes were used in a python shell; it would be better if the teacher uses a IDE like Pycharm/VScode etc to describe that would be better for new pep's to get it faster."
+        },
+        {
+          "user": "Scott R.",
+          "stars": "2.5",
+          "date": "5 months ago",
+          "content": "About half-way through the course, the instructor starts blowing through content like he's late for something else. Very little instruction or information to aid in learning what we are watching him do. Then the course just ends with, \"See you in the next one.\" But, alas...no more lectures.\n\nI did learn some things in the beginning until mid-way when I had to refer to W3schools.com/python to get a better grasp on the topics presented."
+        },
+        {
+          "user": "Sindisa G.",
+          "stars": "3.5",
+          "date": "a week ago",
+          "content": "Well! writing syntax in Python and understanding the difference between variables and strings"
+        },
+        {
+          "user": "Vedavardhan B.",
+          "stars": "3.5",
+          "date": "a month ago",
+          "content": "the notes provided by the resources are not opening and are encoded."
+        },
+        {
+          "user": "Todd A.",
+          "stars": "5.0",
+          "date": "4 months ago",
+          "content": "Everything was clear and precise, I like how the instructor goes step by step and expresses how and what each command does."
+        },
+        {
+          "user": "Joseph R.",
+          "stars": "3.0",
+          "date": "4 months ago",
+          "content": "This course says learn from scratch but what i found is that it automatically jumps in to coding without really explaining the definition of what you are doing. This course feels more suited for people whom already have experience in python."
+        },
+        {
+          "user": "Thulisa B.",
+          "stars": "4.5",
+          "date": "6 months ago",
+          "content": "It was bit tough in the beginning As a beginner. But the more I learn lesson the more I understand, I wanna learn more of making animation python"
+        },
+        {
+          "user": "S. Nithin U.",
+          "stars": "5.0",
+          "date": "5 months ago",
+          "content": "A pretty good match for me considering that I was curious about Python programming and wanted to get started and the course has proved to be a good starting point for me without getting too complex."
+        },
+        {
+          "user": "Liliana I.",
+          "stars": "1.0",
+          "date": "6 months ago",
+          "content": "the examples used for the first sections are really bad\n\neach video is about 3min long and sometimes doesn't even explain all the things that is using\n\ni regret paying for this"
+        },
+        {
+          "user": "Smiti P.",
+          "stars": "2.5",
+          "date": "2 months ago",
+          "content": "yes it is a very good lecture\n\nbut i'm unable to clear my doubts"
+        },
+        {
+          "user": "Ramon D.",
+          "stars": "1.0",
+          "date": "6 months ago",
+          "content": "WHERE IS THE GAME? He mentioned building a game at the beginning of the course and left us hanging. Course seemed short and rushed. Audio was all over the place. YT might've been a better option and its FREE."
+        },
+        {
+          "user": "Vishal G.",
+          "stars": "5.0",
+          "date": "4 weeks ago",
+          "content": "good one"
+        },
+        {
+          "user": "Prithiviraj D.",
+          "stars": "5.0",
+          "date": "6 months ago",
+          "content": "A truly enlightening experience for coding from the start"
+        },
+        {
+          "user": "Dr. P. A. V.",
+          "stars": "4.5",
+          "date": "2 months ago",
+          "content": "Good for a beginner"
+        },
+        {
+          "user": "Aditya W.",
+          "stars": "3.0",
+          "date": "6 months ago",
+          "content": "This lecture is definitely NOT for beginners. one must already has the basics of programming"
+        },
+        {
+          "user": "Esha C.",
+          "stars": "4.5",
+          "date": "4 months ago",
+          "content": "It was a wonderful learning through udemy, thank you for this opprotunity."
+        },
+        {
+          "user": "Bendegúz T.",
+          "stars": "5.0",
+          "date": "5 months ago",
+          "content": "Practical and useful knowledge can be gathered in these short videos"
+        },
+        {
+          "user": "Caleb J.",
+          "stars": "2.5",
+          "date": "5 months ago",
+          "content": "wish there was more interaction instead of just being told what things are"
+        },
+        {
+          "user": "Percy R.",
+          "stars": "3.0",
+          "date": "5 months ago",
+          "content": "The presenter is speaking too fast."
+        },
+        {
+          "user": "Carlos H.",
+          "stars": "3.5",
+          "date": "6 months ago",
+          "content": "Would be nice to see other peoples notes if they allowed. Sry if that's already an option."
+        }
+      ],
+      "reviewsPercentage": ["39", "37", "18", "4", "2"]
+    },
+    {
+      "id": "python-beyond-the-basics-object-oriented-programming",
+      "image": "https://img-c.udemycdn.com/course/240x135/449532_2aa9_7.jpg",
+      "title": "Python Beyond the Basics - Object-Oriented Programming",
+      "shortDescription": "From Classes To Inheritance - OOP In-Depth For Python Programmers",
+      "author": "Infinite Skills",
+      "rating": { "score": 4.3, "reviews": 2948 },
+      "price": 269.99,
+      "lastUpdate": "1/2017",
+      "locale": "English",
+      "caption": "English",
+      "includes": { "video": 5, "articles": 1, "download": 1 },
+      "whatYouWillLearn": [
+        "Design Reusable Object-Oriented Python Classes",
+        "Apply OOP Concepts to handle complexity",
+        "How to handle Errors"
+      ],
+      "content": {
+        "sections": 9,
+        "lectures": 55,
+        "total": "5h 1m",
+        "contentDetails": [
+          {
+            "title": "Introduction To Object Oriented Python",
+            "lectures": "4",
+            "duration": "14min",
+            "lecturesDetails": [
+              {
+                "title": "Important - Download These First - Working Files",
+                "preview": true,
+                "duration": "00:01"
+              },
+              {
+                "title": "What Is Object Oriented Programming And Why?",
+                "preview": true,
+                "duration": "04:23"
+              },
+              {
+                "title": "Object-Oriented Python",
+                "preview": true,
+                "duration": "06:13"
+              },
+              {
+                "title": "Modules Versus Classes",
+                "preview": false,
+                "duration": "03:43"
+              }
+            ]
+          },
+          {
+            "title": "Getting Started",
+            "lectures": "2",
+            "duration": "6min",
+            "lecturesDetails": [
+              {
+                "title": "Prerequisites And Toolkit",
+                "preview": false,
+                "duration": "02:22"
+              },
+              {
+                "title": "Choosing An IDE Or Text Editor And Workflow",
+                "preview": false,
+                "duration": "03:08"
+              }
+            ]
+          },
+          {
+            "title": "Classes",
+            "lectures": "10",
+            "duration": "51min",
+            "lecturesDetails": [
+              {
+                "title": "Classes, Instances, Attributes And Methods",
+                "preview": false,
+                "duration": "06:58"
+              },
+              {
+                "title": "Defining A Class",
+                "preview": false,
+                "duration": "04:53"
+              },
+              {
+                "title": "Instance Methods",
+                "preview": false,
+                "duration": "05:52"
+              },
+              {
+                "title": "Instance Attributes",
+                "preview": false,
+                "duration": "03:33"
+              },
+              {
+                "title": "Encapsulation",
+                "preview": false,
+                "duration": "06:01"
+              },
+              {
+                "title": "Init Constructor",
+                "preview": false,
+                "duration": "06:04"
+              },
+              {
+                "title": "Class Attributes",
+                "preview": false,
+                "duration": "03:03"
+              },
+              {
+                "title": "Working With Class And Instance Data",
+                "preview": false,
+                "duration": "06:25"
+              },
+              {
+                "title": "Assignment 1",
+                "preview": false,
+                "duration": "03:52"
+              },
+              {
+                "title": "Assignment 1 - Solution",
+                "preview": false,
+                "duration": "04:02"
+              }
+            ]
+          },
+          {
+            "title": "Inheritance And Polymorphism",
+            "lectures": "12",
+            "duration": "1hr 8min",
+            "lecturesDetails": [
+              {
+                "title": "Inheriting Attributes",
+                "preview": false,
+                "duration": "04:17"
+              },
+              {
+                "title": "Inheritance Examples",
+                "preview": false,
+                "duration": "06:41"
+              },
+              {
+                "title": "Polymorphism",
+                "preview": false,
+                "duration": "06:42"
+              },
+              {
+                "title": "Inheriting The Constructor",
+                "preview": false,
+                "duration": "02:58"
+              },
+              {
+                "title": "Multiple Inheritance And The Lookup Tree",
+                "preview": false,
+                "duration": "06:17"
+              },
+              {
+                "title": "Decorators, Static And Class Methods",
+                "preview": false,
+                "duration": "08:10"
+              },
+              {
+                "title": "Abstract Classes",
+                "preview": false,
+                "duration": "04:20"
+              },
+              {
+                "title": "Method Overloading - Extending And Providing",
+                "preview": false,
+                "duration": "09:03"
+              },
+              {
+                "title": "Composition Versus Inheritance",
+                "preview": false,
+                "duration": "07:35"
+              },
+              {
+                "title": "Assignment 2",
+                "preview": false,
+                "duration": "03:56"
+              },
+              {
+                "title": "Assignment 2 - Solution",
+                "preview": false,
+                "duration": "05:02"
+              },
+              {
+                "title": "Assignment 2 For Extra Credit - Solution",
+                "preview": false,
+                "duration": "03:28"
+              }
+            ]
+          },
+          {
+            "title": "Advanced Features",
+            "lectures": "9",
+            "duration": "53min",
+            "lecturesDetails": [
+              {
+                "title": "Implementing Core Syntax",
+                "preview": false,
+                "duration": "07:10"
+              },
+              {
+                "title": "Subclassing Built-Ins",
+                "preview": false,
+                "duration": "06:25"
+              },
+              {
+                "title": "Attribute Encapsulation",
+                "preview": false,
+                "duration": "05:27"
+              },
+              {
+                "title": "Private Variable Names",
+                "preview": false,
+                "duration": "06:35"
+              },
+              {
+                "title": "With Context",
+                "preview": false,
+                "duration": "06:07"
+              },
+              {
+                "title": "New Style Classes",
+                "preview": false,
+                "duration": "03:50"
+              },
+              {
+                "title": "Assignment 3",
+                "preview": false,
+                "duration": "07:13"
+              },
+              {
+                "title": "Assignment 3 - Supplementary Hints",
+                "preview": false,
+                "duration": "05:05"
+              },
+              {
+                "title": "Assignment 3 - Solution",
+                "preview": false,
+                "duration": "05:05"
+              }
+            ]
+          },
+          {
+            "title": "Exceptions",
+            "lectures": "4",
+            "duration": "29min",
+            "lecturesDetails": [
+              {
+                "title": "Trapping And Raising Exceptions",
+                "preview": false,
+                "duration": "13:02"
+              },
+              {
+                "title": "Custom Exceptions",
+                "preview": false,
+                "duration": "06:21"
+              },
+              {
+                "title": "Assignment 4",
+                "preview": false,
+                "duration": "05:34"
+              },
+              {
+                "title": "Assignment 4 - Solution",
+                "preview": false,
+                "duration": "04:09"
+              }
+            ]
+          },
+          {
+            "title": "Object Serialization",
+            "lectures": "5",
+            "duration": "30min",
+            "lecturesDetails": [
+              { "title": "Pickle", "preview": false, "duration": "08:27" },
+              { "title": "JSON", "preview": false, "duration": "06:48" },
+              { "title": "YAML", "preview": false, "duration": "09:26" },
+              {
+                "title": "Assignment 5",
+                "preview": false,
+                "duration": "03:38"
+              },
+              {
+                "title": "Assignment 5 - Solution",
+                "preview": false,
+                "duration": "01:45"
+              }
+            ]
+          },
+          {
+            "title": "Efficiency And Testing",
+            "lectures": "7",
+            "duration": "43min",
+            "lecturesDetails": [
+              {
+                "title": "Debugging - PDB",
+                "preview": false,
+                "duration": "10:01"
+              },
+              { "title": "Logging", "preview": false, "duration": "04:01" },
+              {
+                "title": "Benchmarking - The Timeit Module",
+                "preview": false,
+                "duration": "06:03"
+              },
+              {
+                "title": "The Pytest Module - Part 1",
+                "preview": false,
+                "duration": "07:45"
+              },
+              {
+                "title": "he Pytest Module - Part 2",
+                "preview": false,
+                "duration": "06:09"
+              },
+              {
+                "title": "Assignment 6",
+                "preview": false,
+                "duration": "03:49"
+              },
+              {
+                "title": "Assignment 6 - Solution",
+                "preview": false,
+                "duration": "05:28"
+              }
+            ]
+          },
+          {
+            "title": "Conclusion",
+            "lectures": "2",
+            "duration": "7min",
+            "lecturesDetails": [
+              {
+                "title": "What We Have Learned",
+                "preview": false,
+                "duration": "01:55"
+              },
+              {
+                "title": "Where To Go From Here",
+                "preview": false,
+                "duration": "04:48"
+              }
+            ]
+          }
+        ]
+      },
+      "requirements": [
+        "This course is designed for users that already have a basic working knowledge of Python"
+      ],
+      "descriptionHTML": "<p>In this Python Beyond the Basics - Object-Oriented Programming training course, expert author David Blaikie will teach you how to design Python classes, and how to implement object-oriented programming concepts in Python. This course is designed for users that already have a basic working knowledge of Python.</p><p>You will start by learning about classes, including defining a class, class attributes, and working with class and instance data. From there, David will teach you about inheritance and polymorphism. This video tutorial also covers advanced features, such as implementing core syntax, subclassing built-ins, and new style classes. You will also learn about exceptions and object serialization. Finally, David will teach you about efficiency and testing, including debugging, logging, and benchmarking.</p><p>Once you have completed this computer based training course, you will be fully capable of designing your own Python classes, as well as implementing object-oriented programming concepts in Python. </p>",
+      "whoThisCourseIsFor": [
+        "Anyone wanting to learn Object-Oriented programming with Python"
+      ],
+      "instructors": [
+        {
+          "name": "Infinite Skills",
+          "title": "High Quality Training",
+          "img": "data:image/svg+xml,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 64 64\"%3E%3C/svg%3E",
+          "stats": [
+            "4.3 Instructor Rating",
+            "125,639 Reviews",
+            "1,303,743 Students",
+            "323 Courses"
+          ],
+          "description": "<p>Infinite Skills is a Canadian based company who offer a huge and ever growing range of high quality eLearning solutions that teach using studio quality narrated videos backed-up with practical hands-on examples and comprehensive working files. All courses are created by trained educators and experts in video based education.</p><p>The emphasis is on teaching real life skills that are essential for progressing in today's commercial environment. </p>"
+        }
+      ],
+      "reviews": [
+        {
+          "user": "Jayashri.P",
+          "stars": "4.0",
+          "date": "2 months ago",
+          "content": "it is a good learning platform\n\nbut for me there are lots and lots of doubts which cannot clarified by google\n\nand i cant get answers even if i post it in the q&a section"
+        },
+        {
+          "user": "Jim D.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "So I am a procedural programmer with personal rather than professional experience, now learning Python for my job. Oh boy this is so GREAT."
+        },
+        {
+          "user": "Meltem O.",
+          "stars": "5.0",
+          "date": "3 months ago",
+          "content": "the course is very straightforward, the instructor is doing a great job explaining complex terminology and providing clean-cut, easy to understand examples along the way. highly recommend!"
+        },
+        {
+          "user": "Subhjeet K.",
+          "stars": "3.5",
+          "date": "4 months ago",
+          "content": "Need to include design pattern in python and also implementation of non-linear data structure in python like tree,graph etc."
+        },
+        {
+          "user": "Alan R.",
+          "stars": "4.5",
+          "date": "5 months ago",
+          "content": "Really good, in depth class on OOP and with specifics on Python. Highly recommended class."
+        },
+        {
+          "user": "Devara N.",
+          "stars": "4.0",
+          "date": "6 months ago",
+          "content": "thats cool. But, It could have been better if the points in the slides is one after the other rather appearing the whole info at once."
+        },
+        {
+          "user": "Jill R.",
+          "stars": "4.5",
+          "date": "4 months ago",
+          "content": "I'm enjoying how it's presented and the explanations all make sense so far"
+        },
+        {
+          "user": "Akshat G.",
+          "stars": "4.0",
+          "date": "a month ago",
+          "content": "Concise and well explained"
+        },
+        {
+          "user": "Rajan G.",
+          "stars": "4.5",
+          "date": "3 months ago",
+          "content": "OOP CONCEPTS ARE CLEARLY EXPLAINED. THANK YOU."
+        },
+        {
+          "user": "Yishai S.",
+          "stars": "3.5",
+          "date": "8 months ago",
+          "content": "Nice course for basic concepts in python. The fact that it's in python 2 adds an obstacle for"
+        },
+        {
+          "user": "M T.",
+          "stars": "2.5",
+          "date": "8 months ago",
+          "content": "Good course, but not updated recently. Some of the stuff is outdated already. Questions are never answered. Otherwise, very good and clear delivery from the instructor."
+        },
+        {
+          "user": "Isaac S.",
+          "stars": "4.0",
+          "date": "8 months ago",
+          "content": "Great fundamentals but was a slower course on including interesting examples"
+        },
+        {
+          "user": "Dwi agus S.",
+          "stars": "4.5",
+          "date": "2 months ago",
+          "content": "terima kasih"
+        },
+        {
+          "user": "Ajay Kumar G.",
+          "stars": "1.0",
+          "date": "2 months ago",
+          "content": "Its in Python 2, upgrade it"
+        },
+        {
+          "user": "Larry M.",
+          "stars": "4.0",
+          "date": "4 weeks ago",
+          "content": "So far."
+        },
+        {
+          "user": "Rajesh P.",
+          "stars": "3.5",
+          "date": "3 weeks ago",
+          "content": "It was good."
+        },
+        {
+          "user": "Alexandru P.",
+          "stars": "5.0",
+          "date": "2 years ago",
+          "content": "Awesome teacher. You will not find a more passionate and knowledgeable teacher out there. The pace of the course is good, it has a good set of exercises and gets you over all of the basics.\n\nWould be nice to see some other hot modules being added in the future, like numpy, pandas and so on."
+        },
+        {
+          "user": "J Abraham A.",
+          "stars": "5.0",
+          "date": "3 years ago",
+          "content": "I am a beginner-intermedium level and took this course, It was a little bit hard at the beginning but it worth it. This is a great course, it's very clear and coherent. I enjoyed most of the assignments."
+        },
+        {
+          "user": "Aashay D.",
+          "stars": "4.5",
+          "date": "5 years ago",
+          "content": "The Content is exactly what I was looking for. The best part is the basic questions what the instructor asks when he takes that specific class in person helps in clearing the concept. Job well done sir !!"
+        },
+        {
+          "user": "Bridget K.",
+          "stars": "5.0",
+          "date": "5 years ago",
+          "content": "It's taking me a while to get through this class. I'm on the 6th section now and I stumbled on the 5th (it was a little unclear to me),.. but I have yet to find a course that is so professional and thorough. There are intricacies to python that just cannot be learned in a classroom, and I have been to more than my fair share. This instructor is phenomenal in his coverage of intermediate/advanced python. I have to give it 5 stars."
+        },
+        {
+          "user": "Julien G M.",
+          "stars": "3.0",
+          "date": "2 years ago",
+          "content": "Interesting content. Would be more motivating if assignments were compulsory and reviewed by peers, like on coursera."
+        },
+        {
+          "user": "Carter S.",
+          "stars": "5.0",
+          "date": "4 years ago",
+          "content": "I'll just say that I thought the Professor was outstanding. I would not hesitate to take another course he offered."
+        },
+        {
+          "user": "Ross M.",
+          "stars": "5.0",
+          "date": "5 years ago",
+          "content": "This course contains a good depth and breadth of OOP. The theme of the programs within is collaborative; i.e. writing code intended to be easily understood, inherited, encapsulated, and/or overridden by another programmer-in-league. I found this instrumental in better understanding objects and instances, and even built-ins and their attributes. The assignments start off a little easy, but by the end you are building custom exceptions and writing tests for your scripts. Highly recommend for those that have made it through one or several Python tutorials (I started with Learn Python the Hard Way) and looking to better understand classes and what OOP is all about."
+        },
+        {
+          "user": "Alexander D.",
+          "stars": "4.5",
+          "date": "5 years ago",
+          "content": "I like explanations very much.\n\nPlease add more assignments (there are only six, one for each topic) and course will be even better. Also py files from lectures will be very helpfull.\n\nAnyway I highly recommend this course for anyone using python."
+        }
+      ],
+      "reviewsPercentage": ["50", "37", "10", "2", "1"]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.footer {
+  background-color: #1c1d1f;
+}
+
+.link {
+  font-size: 0.9em;
+}
+
+.link:hover {
+  text-decoration: underline !important;
+}

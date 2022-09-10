@@ -1,0 +1,16 @@
+.introBox {
+  top: 5rem;
+  left: 6rem;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+  max-width: calc(50% - 12rem);
+  font-size: 0.7em !important;
+  font-family: serif;
+}
+
+@media (max-width: 991.98px) {
+  .introBox {
+    position: static !important;
+    max-width: 100%;
+    box-shadow: none;
+  }
+}

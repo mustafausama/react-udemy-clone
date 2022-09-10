@@ -1,0 +1,61 @@
+.navbar {
+  box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+  font-size: 0.8em;
+  background-color: #fff;
+  z-index: 2;
+}
+
+.navlink {
+  color: #1c1d1f;
+  font-weight: light;
+  word-wrap: unset;
+}
+
+.navlink:hover {
+  color: #5624d0;
+}
+
+.searchbar {
+  border-radius: 30px 0 0 30px;
+  border: 1px solid #1c1d1f;
+  border-right: 0;
+  font-size: 0.9em;
+  background-color: #f7f9fa;
+}
+
+.searchbtn {
+  border: 1px solid #1c1d1f;
+  border-left: 0;
+  border-radius: 0 30px 30px 0;
+  background-color: #5624d0;
+  color: #eee;
+  outline: none;
+  font-size: 0.9em;
+}
+
+.searchbtn:hover {
+  opacity: 0.8;
+  background-color: #5624d0;
+  color: #eee;
+}
+
+.auth {
+  border: 1px solid #1c1d1f;
+  color: #1c1d1f;
+  font-weight: 700;
+  font-size: 0.9em;
+}
+
+.auth:hover {
+  background-color: rgb(0 0 0 / 0.07);
+  color: #1c1d1f;
+}
+
+.auth:nth-last-of-type(2) {
+  background-color: #1c1d1f;
+  color: #fff;
+}
+
+.auth:nth-last-of-type(2):hover {
+  background-color: rgb(28 29 31 / 0.9);
+}
