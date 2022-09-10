@@ -12,8 +12,10 @@ import { useRef } from "react";
 import IntroSlide from "../../components/Homepage/Header/IntroSlide";
 import CategoriesGrid from "../../components/Homepage/Categories/CategoriesGrid";
 import Footer from "../../components/Common/Footer";
+import useScrollToTop from "../../hooks/useScrollToTop";
 
 const Homepage = () => {
+  useScrollToTop();
   const [searchParams] = useSearchParams();
   let { courses, loading } = useContext(CoursesContext);
   // automatically filter courses if search query found
