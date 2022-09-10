@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Dropdown } from "react-bootstrap";
 import RatingStars from "../../Common/RatingStars";
-import styles from "./ReviewCard.module.css";
+import styles from "../../../styles/Course/Reviews/ReviewCard.module.css";
 
 const ReviewCard = ({ review: { user, stars, date, content } }) => {
   const userName = user.split(" ");

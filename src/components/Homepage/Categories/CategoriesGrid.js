@@ -9,7 +9,7 @@ import MarketingImage from "../../../static/images/category-marketing.jpg";
 import MusicImage from "../../../static/images/category-music.jpg";
 import PersonalDevelopmentImage from "../../../static/images/category-personal-development.jpg";
 import PhotographyImage from "../../../static/images/category-photography.jpg";
-import styles from "./CategoriesGrid.module.css";
+import styles from "../../../styles/Homepage/Categories/CategoriesGrid.module.css";
 
 const CategoriesGrid = () => {
   return (

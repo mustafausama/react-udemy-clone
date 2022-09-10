@@ -1,7 +1,7 @@
 import React from "react";
 import useScrollPosition from "../../../hooks/useScroll";
 import { Button, Col, Row } from "react-bootstrap";
-import styles from "./CourseSideCard.module.css";
+import styles from "../../../styles/Course/Header/CourseSideCard.module.css";
 import { useContext } from "react";
 import { CoursesContext } from "../../../contexts/CoursesContext";
 import { useState } from "react";

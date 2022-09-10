@@ -1,6 +1,6 @@
 import React from "react";
 import { Button, Tab } from "react-bootstrap";
-import styles from "./CoursesTab.module.css";
+import styles from "../../../styles/Homepage/Courses/CoursesTab.module.css";
 import CardSlider from "./Slider/CardSlider";
 
 const CoursesTab = ({

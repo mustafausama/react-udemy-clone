@@ -3,9 +3,9 @@ import { useContext } from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import { CoursesContext } from "../../../contexts/CoursesContext";
 import ContentDetails from "./ContentDetails";
-import styles from "./CourseCurriculum.module.css";
+import styles from "../../../styles/Course/Content/CourseCurriculum.module.css";
 import SeeMore from "./SeeMore";
-const CourseCurriculm = () => {
+const CourseCurriculum = () => {
   const {
     selectedCourse: {
       whatYouWillLearn,
@@ -117,4 +117,4 @@ const CourseCurriculm = () => {
   );
 };
 
-export default CourseCurriculm;
+export default CourseCurriculum;

@@ -5,7 +5,7 @@ import CourseHeader from "../../components/Course/Header/CourseHeader";
 import LoadingSpinner from "../../components/Common/LoadingSpinner";
 import NavbarComponent from "../../components/Common/Navbar";
 import { CoursesContext } from "../../contexts/CoursesContext";
-import CourseCurriculm from "../../components/Course/Content/CourseCurriculum";
+import CourseCurriculum from "../../components/Course/Content/CourseCurriculum";
 import Reviews from "../../components/Course/Reviews/Reviews";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
@@ -44,7 +44,7 @@ const CourseDetails = () => {
       {selectedCourse && (
         <>
           <CourseHeader ref={footerRef} />
-          <CourseCurriculm />
+          <CourseCurriculum />
           <Reviews />
           <Footer ref={footerRef} />
           <ToastContainer />

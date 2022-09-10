@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./CourseHeader.module.css";
+import styles from "../../../styles/Course/Header/CourseHeader.module.css";
 import {
   Breadcrumb,
   Col,

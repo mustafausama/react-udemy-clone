@@ -4,7 +4,7 @@ import { Container, Nav, Tab } from "react-bootstrap";
 import { CoursesContext } from "../../../contexts/CoursesContext";
 import FilteredCoursesContext from "../../../contexts/FilteredCoursesContext";
 import CoursesTab from "./CoursesTab";
-import styles from "./CoursesWrapper.module.css";
+import styles from "../../../styles/Homepage/Courses/CoursesWrapper.module.css";
 import Placeholder from "./Placeholder";
 
 const CoursesWrapper = () => {

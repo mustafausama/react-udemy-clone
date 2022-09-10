@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import styles from "./IntroSlide.module.css";
+import styles from "../../../styles/Homepage/Header/IntroSlide.module.css";
 const IntroSlide = () => {
   return (
     <Container className="position-relative">

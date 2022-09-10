@@ -1,5 +1,5 @@
 import React from "react";
-import styles from "./RatingStars.module.css";
+import styles from "../../styles/Common/RatingStars.module.css";
 
 const RatingStars = ({ score, hideScore }) => {
   // preparing stars class names

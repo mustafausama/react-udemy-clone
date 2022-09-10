@@ -1,7 +1,7 @@
 import React from "react";
 import { useContext } from "react";
 import { CoursesContext } from "../../../contexts/CoursesContext";
-import styles from "./RatingHeader.module.css";
+import styles from "../../../styles/Course/Reviews/RatingHeader.module.css";
 
 const RatingHeader = () => {
   const {

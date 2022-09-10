@@ -3,7 +3,7 @@ import { useContext } from "react";
 import { ProgressBar } from "react-bootstrap";
 import { CoursesContext } from "../../../contexts/CoursesContext";
 import RatingStars from "../../Common/RatingStars";
-import styles from "./RatingStats.module.css";
+import styles from "../../../styles/Course/Reviews/RatingStats.module.css";
 const RatingStats = () => {
   const {
     selectedCourse: { reviewsPercentage }

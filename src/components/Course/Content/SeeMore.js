@@ -1,6 +1,6 @@
 import React, { useRef, useState } from "react";
 import { Button } from "react-bootstrap";
-import styles from "./SeeMore.module.css";
+import styles from "../../../styles/Course/Content/SeeMore.module.css";
 
 const SeeMore = ({ contentHTML }) => {
   const [expanded, setExpanded] = useState(false);

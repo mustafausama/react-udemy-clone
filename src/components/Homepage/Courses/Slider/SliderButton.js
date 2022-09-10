@@ -1,6 +1,6 @@
 import React from "react";
 import { Button } from "react-bootstrap";
-import styles from "./SliderButton.module.css";
+import styles from "../../../../styles/Homepage/Courses/Slider/SliderButton.module.css";
 const SliderButton = ({ action, swiperRef }) => {
   const handleClick = () => {
     if (!swiperRef.current) return;

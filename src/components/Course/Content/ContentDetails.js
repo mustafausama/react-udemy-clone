@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useContext } from "react";
 import { Accordion, Button, Col, Row } from "react-bootstrap";
 import { CoursesContext } from "../../../contexts/CoursesContext";
-import styles from "./ContentDetails.module.css";
+import styles from "../../../styles/Course/Content/ContentDetails.module.css";
 
 const ContentDetails = () => {
   const {

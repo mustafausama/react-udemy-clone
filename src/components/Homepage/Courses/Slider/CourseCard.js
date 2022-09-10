@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import RatingStars from "../../../Common/RatingStars";
-import styles from "./CourseCard.module.css";
+import styles from "../../../../styles/Homepage/Courses/Slider/CourseCard.module.css";
 
 const CourseCard = ({
   course: {

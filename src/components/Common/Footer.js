@@ -2,7 +2,7 @@ import React from "react";
 import { Button, Container } from "react-bootstrap";
 import { Link } from "react-router-dom";
 
-import styles from "./Footer.module.css";
+import styles from "../../styles/Common/Footer.module.css";
 
 const links = {
   Column1: {
