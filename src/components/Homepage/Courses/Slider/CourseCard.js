@@ -62,11 +62,6 @@ const CourseCard = ({
           target={target.current}
           show={show}
           placement={isLeft() ? "left" : "right"}
-          onEnter={() => {
-            console.log(target.current.getBoundingClientRect().left);
-            console.log(target.current.getBoundingClientRect().width);
-            console.log(document.body.clientWidth);
-          }}
         >
           <div
             onMouseEnter={() => setShow(true)}
