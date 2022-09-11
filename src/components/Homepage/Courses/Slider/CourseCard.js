@@ -24,10 +24,11 @@ const CourseCard = ({
   const destination = useRef(null);
 
   const isLeft = () =>
+    target.current &&
     document.body.clientWidth -
       (target.current.getBoundingClientRect().left +
         target.current.getBoundingClientRect().width) <
-    400;
+      400;
 
   return (
     <>
